@@ -54,7 +54,7 @@ Before calling any change done, run all four checks: `npm test` (Vitest with in-
 
 ## Deploying
 
-The Vercel project is connected to GitHub (`ganeshchennuri/lc-warriors`). **A push to `main` deploys production automatically.** Other branches and pull requests are skipped: the project's Ignored Build Step is `[ "$VERCEL_ENV" != "production" ]`. That matters because Preview would share the production database and has no protection. Don't turn previews on without giving them their own database.
+The Vercel project is connected to GitHub (`ganeshchennuri/lc-warriors`). **A push to `main` deploys production automatically.** Other branches and pull requests are skipped: the project's Ignored Build Step is `[ "$VERCEL_GIT_COMMIT_REF" != "main" ]`. That matters because Preview would share the production database and has no protection. Don't turn previews on without giving them their own database.
 
 We keep exactly one deployment. After a push, remove the superseded one:
 
