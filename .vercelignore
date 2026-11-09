@@ -1,0 +1,7 @@
+.superpowers
+.env*
+!.env.example
+.pgdata
+*.csv
+!data/tracker.csv
+tests

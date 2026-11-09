@@ -1,0 +1,19 @@
+.superpowers/
+node_modules/
+.next/
+.env*
+!.env.example
+.vercel/
+.DS_Store
+*.tsbuildinfo
+next-env.d.ts
+/coverage
+/out/
+*.pem
+npm-debug.log*
+.pgdata/
+.vercel
+
+# personal sheet downloads/uploads at the repo root (data/tracker.csv is the committed seed)
+/*.csv
+/*.xlsx

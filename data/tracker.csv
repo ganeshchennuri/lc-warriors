@@ -1,0 +1,793 @@
+Date,Day,Task,LC #,Problem,Topic,Review Stage,Raj — Status,Ganesh — Status,Arbaaz — Status,Original Date,Eligibility (Raj / Ganesh),LeetCode Link
+,,Previously Practiced,11,Container With Most Water,Two Pointers,Baseline,Completed,Completed,Not Started,,,
+,,Previously Practiced,334,Increasing Triplet Subsequence,Array,Baseline,Completed,Completed,Not Started,,,
+,,Previously Practiced,374,Guess Number Higher or Lower,Binary Search,Baseline,Completed,Completed,Not Started,,,
+,,Previously Practiced,933,Number of Recent Calls,Queue,Baseline,Completed,Completed,Not Started,,,
+,,Previously Practiced,1657,Determine if Two Strings Are Close,Hash Map,Baseline,Completed,Completed,Not Started,,,
+,,Previously Practiced,1679,Max Number of K-Sum Pairs,Hash Map,Baseline,Completed,Completed,Not Started,,,
+,,Previously Practiced,1732,Find the Highest Altitude,Prefix Sum,Baseline,Completed,Completed,Not Started,,,
+,,Previously Practiced,2352,Equal Row and Column Pairs,Hash Map,Baseline,Completed,Completed,Not Started,,,
+2026-10-20,Tuesday,New,443,String Compression,Two Pointers,Original,Completed,Completed,Not Started,,,https://leetcode.com/problems/string-compression/
+2026-10-20,Tuesday,New,643,Maximum Average Subarray I,Sliding Window,Original,Completed,Completed,Completed,,,https://leetcode.com/problems/maximum-average-subarray-i/
+2026-10-21,Wednesday,New,2215,Find the Difference of Two Arrays,Hash Map,Original,Completed,Completed,Completed,,,https://leetcode.com/problems/find-the-difference-of-two-arrays
+2026-10-22,Thursday,New,1493,Longest Subarray of 1s After Deleting One Element,Sliding Window,Original,Completed,Completed,Completed,,,https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/
+2026-10-23,Friday,New,206,Reverse Linked List,Linked List,Original,Completed,Completed,Completed,,,https://leetcode.com/problems/reverse-linked-list/
+2026-10-24,Saturday,New,104,Maximum Depth of Binary Tree,Tree,Original,Completed,Completed,Completed,,,https://leetcode.com/problems/maximum-depth-of-binary-tree/
+2026-10-24,Saturday,New,198,House Robber,DP,Original,Completed,Completed,Not Started,,,https://leetcode.com/problems/house-robber/
+2026-10-24,Saturday,New,649,Dota2 Senate,Queue,Original,Completed,Completed,Completed,,,https://leetcode.com/problems/dota2-senate/
+2026-10-25,Sunday,New,399,Evaluate Division,Graph,Original,Completed,Revisit,Not Started,,,https://leetcode.com/problems/evaluate-division/
+2026-10-25,Sunday,New,547,Number of Provinces,Graph,Original,Revisit,Completed,Not Started,,,https://leetcode.com/problems/number-of-provinces/
+2026-10-25,Sunday,New,841,Keys and Rooms,Graph,Original,Completed,Completed,Not Started,,,https://leetcode.com/problems/keys-and-rooms/
+2026-10-27,Tuesday,New,72,Edit Distance,DP,Original,Revisit,Revisit,Not Started,,,https://leetcode.com/problems/edit-distance/
+2026-10-27,Tuesday,Revision,643,Maximum Average Subarray I,,D+7,Completed,Not Started,Not Started,2026-10-20,Wait for completion / Wait for completion,https://leetcode.com/problemset/?search=643
+2026-10-28,Wednesday,New,62,Unique Paths,DP,Original,Completed,Completed,Not Started,,,https://leetcode.com/problems/unique-paths/
+2026-10-28,Wednesday,Revision,443,String Compression,,D+3,Completed,Completed,Not Started,2026-10-20,Wait for completion / Wait for completion,https://leetcode.com/problemset/?search=443
+2026-10-29,Thursday,New,338,Counting Bits,Bit Manipulation,Original,Completed,Completed,Revisit,,,https://leetcode.com/problems/counting-bits/
+2026-10-29,Thursday,Revision,643,Maximum Average Subarray I,,D+3,In Progress,Completed,Completed,2026-10-20,Wait for completion / Wait for completion,https://leetcode.com/problemset/?search=643
+2026-10-30,Friday,New,2336,Smallest Number in Infinite Set,Heap,Original,Completed,Completed,Not Started,,,https://leetcode.com/problems/smallest-number-in-infinite-set/
+2026-10-30,Friday,Revision,2215,Find the Difference of Two Arrays,,D+3,In Progress,Completed,Completed,2026-10-21,Wait for completion / Wait for completion,https://leetcode.com/problemset/?search=2215
+2026-10-31,Saturday,New,605,Can Place Flowers,Array,Original,Completed,Completed,Revisit,,,https://leetcode.com/problems/can-place-flowers/
+2026-10-31,Saturday,New,1004,Max Consecutive Ones III,Sliding Window,Original,Completed,Completed,Not Started,,,https://leetcode.com/problems/max-consecutive-ones-iii/
+2026-10-31,Saturday,Revision,62,Unique Paths,,D+3,Completed,Not Started,Not Started,2026-10-28,Wait for completion / Wait for completion,https://leetcode.com/problemset/?search=62
+2026-10-31,Saturday,Revision,104,Maximum Depth of Binary Tree,,D+7,Completed,Not Started,Not Started,2026-10-24,Wait for completion / Wait for completion,https://leetcode.com/problemset/?search=104
+2026-10-31,Saturday,Revision,1493,Longest Subarray of 1s After Deleting One Element,,D+3,Completed,Not Started,Not Started,2026-10-22,Wait for completion / Wait for completion,https://leetcode.com/problemset/?search=1493
+2026-11-01,Sunday,New,875,Koko Eating Bananas,Binary Search,Original,Completed,Completed,Not Started,,,https://leetcode.com/problems/koko-eating-bananas/
+2026-11-01,Sunday,New,1466,Reorder Routes to Make All Paths Lead to City Zero,Graph,Original,Completed,Not Started,Not Started,,,https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/
+2026-11-02,Monday,New,215,Kth Largest Element in an Array,Heap,Original,Completed,Revisit,Completed,,,https://leetcode.com/problems/kth-largest-element-in-an-array/
+2026-11-02,Monday,Revision,2336,Smallest Number in Infinite Set,,D+3,Not Started,Not Started,Revisit,2026-10-30,Wait for completion / Wait for completion,https://leetcode.com/problemset/?search=2336
+2026-11-03,Tuesday,New,1448,Count Good Nodes in Binary Tree,Tree,Original,Completed,Completed,Not Started,,,https://leetcode.com/problems/count-good-nodes-in-binary-tree/
+2026-11-04,Wednesday,New,1318,Minimum Flips to Make a OR b Equal to c,Bit Manipulation,Original,Completed,Completed,Not Started,,,https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/
+2026-11-04,Wednesday,Revision,2215,Find the Difference of Two Arrays,,D+14,Not Started,Completed,Not Started,2026-10-21,Wait for completion / Wait for completion,https://leetcode.com/problemset/?search=2215
+2026-11-05,Thursday,New,1768,Merge Strings Alternately,String,Original,Completed,Completed,Not Started,,,https://leetcode.com/problems/merge-strings-alternately/
+2026-11-05,Thursday,Revision,215,Kth Largest Element in an Array,,D+3,Not Started,Completed,Not Started,2026-11-02,Wait for completion / Wait for completion,https://leetcode.com/problemset/?search=215
+2026-11-05,Thursday,Revision,338,Counting Bits,,D+7,Not Started,Completed,Not Started,2026-10-29,Wait for completion / Wait for completion,https://leetcode.com/problemset/?search=338
+2026-11-05,Thursday,Revision,2215,Find the Difference of Two Arrays,,D+7,Not Started,Completed,Not Started,2026-10-21,Wait for completion / Wait for completion,https://leetcode.com/problemset/?search=2215
+2026-11-06,Friday,New,1207,Unique Number of Occurrences,Hash Map,Original,Not Started,Completed,Not Started,,,https://leetcode.com/problems/unique-number-of-occurrences/
+2026-11-07,Saturday,New,1268,Search Suggestions System,Trie,Original,In Progress,Not Started,Not Started,,,https://leetcode.com/problems/search-suggestions-system/
+2026-11-07,Saturday,New,2095,Delete the Middle Node of a Linked List,Linked List,Original,Completed,Not Started,Not Started,,,https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/
+2026-11-08,Sunday,New,136,Single Number,Bit Manipulation,Original,Completed,Completed,Not Started,,,https://leetcode.com/problems/single-number/
+2026-11-08,Sunday,New,345,Reverse Vowels of a String,Two Pointers,Original,Not Started,Completed,Not Started,,,https://leetcode.com/problems/reverse-vowels-of-a-string/
+2026-11-08,Sunday,New,392,Is Subsequence,Two Pointers,Original,Completed,Completed,Not Started,,,https://leetcode.com/problems/is-subsequence/
+2026-11-09,Mon,New,208,Implement Trie (Prefix Tree),Trie,Original,Not Started,Not Started,Not Started,2026-11-09,,https://leetcode.com/problems/implement-trie-(prefix-tree)/
+2026-11-09,Mon,Revision,11,Container With Most Water,Two Pointers,Earlier Review,Not Started,Not Started,Not Started,,,https://leetcode.com/problems/container-with-most-water/
+2026-11-09,Mon,Revision,62,Unique Paths,DP · Multidimensional,D+3,Not Started,Not Started,Not Started,2026-10-28,,https://leetcode.com/problems/unique-paths/
+2026-11-09,Mon,Revision,62,Unique Paths,DP · Multidimensional,D+7,Not Started,Not Started,Not Started,2026-10-28,,https://leetcode.com/problems/unique-paths/
+2026-11-09,Mon,Revision,104,Maximum Depth of Binary Tree,Binary Tree · DFS,D+3,Not Started,Not Started,Not Started,2026-10-24,,https://leetcode.com/problems/maximum-depth-of-binary-tree/
+2026-11-09,Mon,Revision,206,Reverse Linked List,Linked List,D+3,Not Started,Not Started,Not Started,2026-10-23,,https://leetcode.com/problems/reverse-linked-list/
+2026-11-10,Tue,New,1268,Search Suggestions System,Trie,Original,Not Started,Not Started,Not Started,2026-11-10,,https://leetcode.com/problems/search-suggestions-system/
+2026-11-10,Tue,Revision,104,Maximum Depth of Binary Tree,Binary Tree · DFS,D+3,Not Started,Not Started,Not Started,2026-10-24,,https://leetcode.com/problems/maximum-depth-of-binary-tree/
+2026-11-10,Tue,Revision,198,House Robber,DP · 1D,D+3,Not Started,Not Started,Not Started,2026-10-24,,https://leetcode.com/problems/house-robber/
+2026-11-10,Tue,Revision,215,Kth Largest Element in an Array,Heap / Priority Queue,D+3,Not Started,Not Started,Not Started,2026-11-02,,https://leetcode.com/problems/kth-largest-element-in-an-array/
+2026-11-10,Tue,Revision,643,Maximum Average Subarray I,Sliding Window,D+7,Not Started,Not Started,Not Started,2026-10-20,,https://leetcode.com/problems/maximum-average-subarray-i/
+2026-11-11,Wed,New,739,Daily Temperatures,Monotonic Stack,Original,Not Started,Not Started,Not Started,2026-11-11,,https://leetcode.com/problems/daily-temperatures/
+2026-11-11,Wed,Revision,206,Reverse Linked List,Linked List,D+3,Not Started,Not Started,Not Started,2026-10-23,,https://leetcode.com/problems/reverse-linked-list/
+2026-11-11,Wed,Revision,215,Kth Largest Element in an Array,Heap / Priority Queue,D+3,Not Started,Not Started,Not Started,2026-11-02,,https://leetcode.com/problems/kth-largest-element-in-an-array/
+2026-11-11,Wed,Revision,334,Increasing Triplet Subsequence,Array / String,Earlier Review,Not Started,Not Started,Not Started,,,https://leetcode.com/problems/increasing-triplet-subsequence/
+2026-11-11,Wed,Revision,649,Dota2 Senate,Queue,D+3,Not Started,Not Started,Not Started,2026-10-24,,https://leetcode.com/problems/dota2-senate/
+2026-11-11,Wed,Revision,1493,Longest Subarray of 1s After Deleting One Element,Sliding Window,D+3,Not Started,Not Started,Not Started,2026-10-22,,https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/
+2026-11-12,Thu,New,901,Online Stock Span,Monotonic Stack,Original,Not Started,Not Started,Not Started,2026-11-12,,https://leetcode.com/problems/online-stock-span/
+2026-11-12,Thu,Revision,11,Container With Most Water,Two Pointers,Earlier Review,Not Started,Not Started,Not Started,,,https://leetcode.com/problems/container-with-most-water/
+2026-11-12,Thu,Revision,62,Unique Paths,DP · Multidimensional,D+7,Not Started,Not Started,Not Started,2026-10-28,,https://leetcode.com/problems/unique-paths/
+2026-11-12,Thu,Revision,104,Maximum Depth of Binary Tree,Binary Tree · DFS,D+7,Not Started,Not Started,Not Started,2026-10-24,,https://leetcode.com/problems/maximum-depth-of-binary-tree/
+2026-11-12,Thu,Revision,334,Increasing Triplet Subsequence,Array / String,Earlier Review,Not Started,Not Started,Not Started,,,https://leetcode.com/problems/increasing-triplet-subsequence/
+2026-11-12,Thu,Revision,2215,Find the Difference of Two Arrays,Hash Map / Set,D+7,Not Started,Not Started,Not Started,2026-10-21,,https://leetcode.com/problems/find-the-difference-of-two-arrays
+2026-11-13,Fri,New,435,Non-overlapping Intervals,Intervals,Original,Not Started,Not Started,Not Started,2026-11-13,,https://leetcode.com/problems/non-overlapping-intervals/
+2026-11-13,Fri,Revision,104,Maximum Depth of Binary Tree,Binary Tree · DFS,D+14,Not Started,Not Started,Not Started,2026-10-24,,https://leetcode.com/problems/maximum-depth-of-binary-tree/
+2026-11-13,Fri,Revision,104,Maximum Depth of Binary Tree,Binary Tree · DFS,D+7,Not Started,Not Started,Not Started,2026-10-24,,https://leetcode.com/problems/maximum-depth-of-binary-tree/
+2026-11-13,Fri,Revision,198,House Robber,DP · 1D,D+7,Not Started,Not Started,Not Started,2026-10-24,,https://leetcode.com/problems/house-robber/
+2026-11-13,Fri,Revision,215,Kth Largest Element in an Array,Heap / Priority Queue,D+7,Not Started,Not Started,Not Started,2026-11-02,,https://leetcode.com/problems/kth-largest-element-in-an-array/
+2026-11-13,Fri,Revision,643,Maximum Average Subarray I,Sliding Window,D+14,Not Started,Not Started,Not Started,2026-10-20,,https://leetcode.com/problems/maximum-average-subarray-i/
+2026-11-14,Sat,New,17,Letter Combinations of a Phone Number,Backtracking,Original,Not Started,Not Started,Not Started,2026-11-14,,https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+2026-11-14,Sat,New,452,Minimum Number of Arrows to Burst Balloons,Intervals,Original,Not Started,Not Started,Not Started,2026-11-14,,https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/
+2026-11-14,Sat,Revision,206,Reverse Linked List,Linked List,D+7,Not Started,Not Started,Not Started,2026-10-23,,https://leetcode.com/problems/reverse-linked-list/
+2026-11-14,Sat,Revision,215,Kth Largest Element in an Array,Heap / Priority Queue,D+7,Not Started,Not Started,Not Started,2026-11-02,,https://leetcode.com/problems/kth-largest-element-in-an-array/
+2026-11-14,Sat,Revision,338,Counting Bits,Bit Manipulation,D+3,Not Started,Not Started,Not Started,2026-10-29,,https://leetcode.com/problems/counting-bits/
+2026-11-14,Sat,Revision,374,Guess Number Higher or Lower,Binary Search,Earlier Review,Not Started,Not Started,Not Started,,,https://leetcode.com/problems/guess-number-higher-or-lower/
+2026-11-14,Sat,Revision,443,String Compression,Array / String,D+7,Not Started,Not Started,Not Started,2026-10-20,,https://leetcode.com/problems/string-compression/
+2026-11-14,Sat,Revision,649,Dota2 Senate,Queue,D+7,Not Started,Not Started,Not Started,2026-10-24,,https://leetcode.com/problems/dota2-senate/
+2026-11-14,Sat,Revision,1493,Longest Subarray of 1s After Deleting One Element,Sliding Window,D+7,Not Started,Not Started,Not Started,2026-10-22,,https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/
+2026-11-15,Sun,New,216,Combination Sum III,Backtracking,Original,Not Started,Not Started,Not Started,2026-11-15,,https://leetcode.com/problems/combination-sum-iii/
+2026-11-15,Sun,New,2390,Removing Stars From a String,Stack,Original,Not Started,Not Started,Not Started,2026-11-15,,https://leetcode.com/problems/removing-stars-from-a-string/
+2026-11-15,Sun,Revision,104,Maximum Depth of Binary Tree,Binary Tree · DFS,D+14,Not Started,Not Started,Not Started,2026-10-24,,https://leetcode.com/problems/maximum-depth-of-binary-tree/
+2026-11-15,Sun,Revision,208,Implement Trie (Prefix Tree),Trie,D+3,Not Started,Not Started,Not Started,2026-11-09,,https://leetcode.com/problems/implement-trie-(prefix-tree)/
+2026-11-15,Sun,Revision,399,Evaluate Division,Graphs · DFS,D+3,Not Started,Not Started,Not Started,2026-10-25,,https://leetcode.com/problems/evaluate-division/
+2026-11-15,Sun,Revision,443,String Compression,Array / String,D+7,Not Started,Not Started,Not Started,2026-10-20,,https://leetcode.com/problems/string-compression/
+2026-11-15,Sun,Revision,547,Number of Provinces,Graphs · DFS,D+3,Not Started,Not Started,Not Started,2026-10-25,,https://leetcode.com/problems/number-of-provinces/
+2026-11-15,Sun,Revision,605,Can Place Flowers,Array / String,D+3,Not Started,Not Started,Not Started,2026-10-31,,https://leetcode.com/problems/can-place-flowers/
+2026-11-15,Sun,Revision,643,Maximum Average Subarray I,Sliding Window,D+7,Not Started,Not Started,Not Started,2026-10-20,,https://leetcode.com/problems/maximum-average-subarray-i/
+2026-11-15,Sun,Revision,2215,Find the Difference of Two Arrays,Hash Map / Set,D+14,Not Started,Not Started,Not Started,2026-10-21,,https://leetcode.com/problems/find-the-difference-of-two-arrays
+2026-11-16,Mon,New,735,Asteroid Collision,Stack,Original,Not Started,Not Started,Not Started,2026-11-16,,https://leetcode.com/problems/asteroid-collision/
+2026-11-16,Mon,Revision,104,Maximum Depth of Binary Tree,Binary Tree · DFS,D+14,Not Started,Not Started,Not Started,2026-10-24,,https://leetcode.com/problems/maximum-depth-of-binary-tree/
+2026-11-16,Mon,Revision,198,House Robber,DP · 1D,D+14,Not Started,Not Started,Not Started,2026-10-24,,https://leetcode.com/problems/house-robber/
+2026-11-16,Mon,Revision,643,Maximum Average Subarray I,Sliding Window,D+3,Not Started,Not Started,Not Started,2026-10-20,,https://leetcode.com/problems/maximum-average-subarray-i/
+2026-11-16,Mon,Revision,739,Daily Temperatures,Monotonic Stack,D+3,Not Started,Not Started,Not Started,2026-11-11,,https://leetcode.com/problems/daily-temperatures/
+2026-11-16,Mon,Revision,1268,Search Suggestions System,Trie,D+3,Not Started,Not Started,Not Started,2026-11-10,,https://leetcode.com/problems/search-suggestions-system/
+2026-11-17,Tue,New,394,Decode String,Stack,Original,Not Started,Not Started,Not Started,2026-11-17,,https://leetcode.com/problems/decode-string/
+2026-11-17,Tue,Revision,206,Reverse Linked List,Linked List,D+14,Not Started,Not Started,Not Started,2026-10-23,,https://leetcode.com/problems/reverse-linked-list/
+2026-11-17,Tue,Revision,338,Counting Bits,Bit Manipulation,D+7,Not Started,Not Started,Not Started,2026-10-29,,https://leetcode.com/problems/counting-bits/
+2026-11-17,Tue,Revision,443,String Compression,Array / String,D+14,Not Started,Not Started,Not Started,2026-10-20,,https://leetcode.com/problems/string-compression/
+2026-11-17,Tue,Revision,649,Dota2 Senate,Queue,D+14,Not Started,Not Started,Not Started,2026-10-24,,https://leetcode.com/problems/dota2-senate/
+2026-11-17,Tue,Revision,649,Dota2 Senate,Queue,D+3,Not Started,Not Started,Not Started,2026-10-24,,https://leetcode.com/problems/dota2-senate/
+2026-11-18,Wed,New,547,Number of Provinces,Graphs · DFS,Original,Not Started,Not Started,Not Started,2026-11-18,,https://leetcode.com/problems/number-of-provinces/
+2026-11-18,Wed,New,841,Keys and Rooms,Graphs · DFS,Original,Not Started,Not Started,Not Started,2026-11-18,,https://leetcode.com/problems/keys-and-rooms/
+2026-11-18,Wed,New,1466,Reorder Routes to Make All Paths Lead to City Zero,Graphs · DFS,Original,Not Started,Not Started,Not Started,2026-11-18,,https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/
+2026-11-18,Wed,Revision,399,Evaluate Division,Graphs · DFS,D+7,Not Started,Not Started,Not Started,2026-10-25,,https://leetcode.com/problems/evaluate-division/
+2026-11-18,Wed,Revision,443,String Compression,Array / String,D+14,Not Started,Not Started,Not Started,2026-10-20,,https://leetcode.com/problems/string-compression/
+2026-11-18,Wed,Revision,547,Number of Provinces,Graphs · DFS,D+7,Not Started,Not Started,Not Started,2026-10-25,,https://leetcode.com/problems/number-of-provinces/
+2026-11-18,Wed,Revision,605,Can Place Flowers,Array / String,D+7,Not Started,Not Started,Not Started,2026-10-31,,https://leetcode.com/problems/can-place-flowers/
+2026-11-18,Wed,Revision,901,Online Stock Span,Monotonic Stack,D+3,Not Started,Not Started,Not Started,2026-11-12,,https://leetcode.com/problems/online-stock-span/
+2026-11-18,Wed,Revision,1493,Longest Subarray of 1s After Deleting One Element,Sliding Window,D+14,Not Started,Not Started,Not Started,2026-10-22,,https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/
+2026-11-19,Thu,New,399,Evaluate Division,Graphs · DFS,Original,Not Started,Not Started,Not Started,2026-11-19,,https://leetcode.com/problems/evaluate-division/
+2026-11-19,Thu,New,547,Number of Provinces,Graphs · DFS,Original,Not Started,Not Started,Not Started,2026-11-19,,https://leetcode.com/problems/number-of-provinces/
+2026-11-19,Thu,New,1926,Nearest Exit from Entrance in Maze,Graphs · BFS,Original,Not Started,Not Started,Not Started,2026-11-19,,https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/
+2026-11-19,Thu,Revision,208,Implement Trie (Prefix Tree),Trie,D+7,Not Started,Not Started,Not Started,2026-11-09,,https://leetcode.com/problems/implement-trie-(prefix-tree)/
+2026-11-19,Thu,Revision,215,Kth Largest Element in an Array,Heap / Priority Queue,D+14,Not Started,Not Started,Not Started,2026-11-02,,https://leetcode.com/problems/kth-largest-element-in-an-array/
+2026-11-19,Thu,Revision,605,Can Place Flowers,Array / String,D+7,Not Started,Not Started,Not Started,2026-10-31,,https://leetcode.com/problems/can-place-flowers/
+2026-11-19,Thu,Revision,643,Maximum Average Subarray I,Sliding Window,D+14,Not Started,Not Started,Not Started,2026-10-20,,https://leetcode.com/problems/maximum-average-subarray-i/
+2026-11-19,Thu,Revision,841,Keys and Rooms,Graphs · DFS,D+3,Not Started,Not Started,Not Started,2026-10-25,,https://leetcode.com/problems/keys-and-rooms/
+2026-11-20,Fri,New,994,Rotting Oranges,Graphs · BFS,Original,Not Started,Not Started,Not Started,2026-11-20,,https://leetcode.com/problems/rotting-oranges/
+2026-11-20,Fri,New,1466,Reorder Routes to Make All Paths Lead to City Zero,Graphs · DFS,Original,Not Started,Not Started,Not Started,2026-11-20,,https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/
+2026-11-20,Fri,New,1926,Nearest Exit from Entrance in Maze,Graphs · BFS,Original,Not Started,Not Started,Not Started,2026-11-20,,https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/
+2026-11-20,Fri,Revision,17,Letter Combinations of a Phone Number,Backtracking,D+3,Not Started,Not Started,Not Started,2026-11-14,,https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+2026-11-20,Fri,Revision,435,Non-overlapping Intervals,Intervals,D+3,Not Started,Not Started,Not Started,2026-11-13,,https://leetcode.com/problems/non-overlapping-intervals/
+2026-11-20,Fri,Revision,649,Dota2 Senate,Queue,D+7,Not Started,Not Started,Not Started,2026-10-24,,https://leetcode.com/problems/dota2-senate/
+2026-11-20,Fri,Revision,841,Keys and Rooms,Graphs · DFS,D+3,Not Started,Not Started,Not Started,2026-10-25,,https://leetcode.com/problems/keys-and-rooms/
+2026-11-20,Fri,Revision,875,Koko Eating Bananas,Binary Search,D+3,Not Started,Not Started,Not Started,2026-11-01,,https://leetcode.com/problems/koko-eating-bananas/
+2026-11-21,Sat,New,215,Kth Largest Element in an Array,Heap / Priority Queue,Original,Not Started,Not Started,Not Started,2026-11-21,,https://leetcode.com/problems/kth-largest-element-in-an-array/
+2026-11-21,Sat,New,399,Evaluate Division,Graphs · DFS,Original,Not Started,Not Started,Not Started,2026-11-21,,https://leetcode.com/problems/evaluate-division/
+2026-11-21,Sat,New,994,Rotting Oranges,Graphs · BFS,Original,Not Started,Not Started,Not Started,2026-11-21,,https://leetcode.com/problems/rotting-oranges/
+2026-11-21,Sat,New,1926,Nearest Exit from Entrance in Maze,Graphs · BFS,Original,Not Started,Not Started,Not Started,2026-11-21,,https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/
+2026-11-21,Sat,New,2462,Total Cost to Hire K Workers,Heap / Priority Queue,Original,Not Started,Not Started,Not Started,2026-11-21,,https://leetcode.com/problems/total-cost-to-hire-k-workers/
+2026-11-21,Sat,New,2542,Maximum Subsequence Score,Heap / Priority Queue,Original,Not Started,Not Started,Not Started,2026-11-21,,https://leetcode.com/problems/maximum-subsequence-score/
+2026-11-21,Sat,Revision,216,Combination Sum III,Backtracking,D+3,Not Started,Not Started,Not Started,2026-11-15,,https://leetcode.com/problems/combination-sum-iii/
+2026-11-21,Sat,Revision,399,Evaluate Division,Graphs · DFS,D+14,Not Started,Not Started,Not Started,2026-10-25,,https://leetcode.com/problems/evaluate-division/
+2026-11-21,Sat,Revision,452,Minimum Number of Arrows to Burst Balloons,Intervals,D+3,Not Started,Not Started,Not Started,2026-11-14,,https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/
+2026-11-21,Sat,Revision,547,Number of Provinces,Graphs · DFS,D+14,Not Started,Not Started,Not Started,2026-10-25,,https://leetcode.com/problems/number-of-provinces/
+2026-11-21,Sat,Revision,875,Koko Eating Bananas,Binary Search,D+3,Not Started,Not Started,Not Started,2026-11-01,,https://leetcode.com/problems/koko-eating-bananas/
+2026-11-21,Sat,Revision,933,Number of Recent Calls,Queue,Earlier Review,Not Started,Not Started,Not Started,,,https://leetcode.com/problems/number-of-recent-calls/
+2026-11-21,Sat,Revision,1268,Search Suggestions System,Trie,D+7,Not Started,Not Started,Not Started,2026-11-10,,https://leetcode.com/problems/search-suggestions-system/
+2026-11-21,Sat,Revision,2336,Smallest Number in Infinite Set,Heap / Priority Queue,D+3,Not Started,Not Started,Not Started,2026-10-30,,https://leetcode.com/problems/smallest-number-in-infinite-set/
+2026-11-22,Sun,New,162,Find Peak Element,Binary Search,Original,Not Started,Not Started,Not Started,2026-11-22,,https://leetcode.com/problems/find-peak-element/
+2026-11-22,Sun,New,872,Leaf-Similar Trees,Binary Tree · DFS,Original,Not Started,Not Started,Not Started,2026-11-22,,https://leetcode.com/problems/leaf-similar-trees/
+2026-11-22,Sun,New,994,Rotting Oranges,Graphs · BFS,Original,Not Started,Not Started,Not Started,2026-11-22,,https://leetcode.com/problems/rotting-oranges/
+2026-11-22,Sun,New,2300,Successful Pairs of Spells and Potions,Binary Search,Original,Not Started,Not Started,Not Started,2026-11-22,,https://leetcode.com/problems/successful-pairs-of-spells-and-potions/
+2026-11-22,Sun,New,2336,Smallest Number in Infinite Set,Heap / Priority Queue,Original,Not Started,Not Started,Not Started,2026-11-22,,https://leetcode.com/problems/smallest-number-in-infinite-set/
+2026-11-22,Sun,New,2462,Total Cost to Hire K Workers,Heap / Priority Queue,Original,Not Started,Not Started,Not Started,2026-11-22,,https://leetcode.com/problems/total-cost-to-hire-k-workers/
+2026-11-22,Sun,New,2542,Maximum Subsequence Score,Heap / Priority Queue,Original,Not Started,Not Started,Not Started,2026-11-22,,https://leetcode.com/problems/maximum-subsequence-score/
+2026-11-22,Sun,Revision,735,Asteroid Collision,Stack,D+3,Not Started,Not Started,Not Started,2026-11-16,,https://leetcode.com/problems/asteroid-collision/
+2026-11-22,Sun,Revision,739,Daily Temperatures,Monotonic Stack,D+7,Not Started,Not Started,Not Started,2026-11-11,,https://leetcode.com/problems/daily-temperatures/
+2026-11-22,Sun,Revision,841,Keys and Rooms,Graphs · DFS,D+7,Not Started,Not Started,Not Started,2026-10-25,,https://leetcode.com/problems/keys-and-rooms/
+2026-11-22,Sun,Revision,933,Number of Recent Calls,Queue,Earlier Review,Not Started,Not Started,Not Started,,,https://leetcode.com/problems/number-of-recent-calls/
+2026-11-22,Sun,Revision,1004,Max Consecutive Ones III,Sliding Window,D+3,Not Started,Not Started,Not Started,2026-10-31,,https://leetcode.com/problems/max-consecutive-ones-iii/
+2026-11-22,Sun,Revision,1207,Unique Number of Occurrences,Hash Map / Set,D+3,Not Started,Not Started,Not Started,2026-11-06,,https://leetcode.com/problems/unique-number-of-occurrences/
+2026-11-22,Sun,Revision,1448,Count Good Nodes in Binary Tree,Binary Tree · DFS,D+3,Not Started,Not Started,Not Started,2026-11-03,,https://leetcode.com/problems/count-good-nodes-in-binary-tree/
+2026-11-22,Sun,Revision,2390,Removing Stars From a String,Stack,D+3,Not Started,Not Started,Not Started,2026-11-15,,https://leetcode.com/problems/removing-stars-from-a-string/
+2026-11-23,Mon,New,437,Path Sum III,Binary Tree · DFS,Original,Not Started,Not Started,Not Started,2026-11-23,,https://leetcode.com/problems/path-sum-iii/
+2026-11-23,Mon,New,2300,Successful Pairs of Spells and Potions,Binary Search,Original,Not Started,Not Started,Not Started,2026-11-23,,https://leetcode.com/problems/successful-pairs-of-spells-and-potions/
+2026-11-23,Mon,New,2542,Maximum Subsequence Score,Heap / Priority Queue,Original,Not Started,Not Started,Not Started,2026-11-23,,https://leetcode.com/problems/maximum-subsequence-score/
+2026-11-23,Mon,Revision,394,Decode String,Stack,D+3,Not Started,Not Started,Not Started,2026-11-17,,https://leetcode.com/problems/decode-string/
+2026-11-23,Mon,Revision,649,Dota2 Senate,Queue,D+14,Not Started,Not Started,Not Started,2026-10-24,,https://leetcode.com/problems/dota2-senate/
+2026-11-23,Mon,Revision,841,Keys and Rooms,Graphs · DFS,D+7,Not Started,Not Started,Not Started,2026-10-25,,https://leetcode.com/problems/keys-and-rooms/
+2026-11-23,Mon,Revision,875,Koko Eating Bananas,Binary Search,D+7,Not Started,Not Started,Not Started,2026-11-01,,https://leetcode.com/problems/koko-eating-bananas/
+2026-11-23,Mon,Revision,901,Online Stock Span,Monotonic Stack,D+7,Not Started,Not Started,Not Started,2026-11-12,,https://leetcode.com/problems/online-stock-span/
+2026-11-24,Tue,New,162,Find Peak Element,Binary Search,Original,Not Started,Not Started,Not Started,2026-11-24,,https://leetcode.com/problems/find-peak-element/
+2026-11-24,Tue,New,1372,Longest ZigZag Path in a Binary Tree,Binary Tree · DFS,Original,Not Started,Not Started,Not Started,2026-11-24,,https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/
+2026-11-24,Tue,New,2462,Total Cost to Hire K Workers,Heap / Priority Queue,Original,Not Started,Not Started,Not Started,2026-11-24,,https://leetcode.com/problems/total-cost-to-hire-k-workers/
+2026-11-24,Tue,Revision,17,Letter Combinations of a Phone Number,Backtracking,D+7,Not Started,Not Started,Not Started,2026-11-14,,https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+2026-11-24,Tue,Revision,435,Non-overlapping Intervals,Intervals,D+7,Not Started,Not Started,Not Started,2026-11-13,,https://leetcode.com/problems/non-overlapping-intervals/
+2026-11-24,Tue,Revision,875,Koko Eating Bananas,Binary Search,D+7,Not Started,Not Started,Not Started,2026-11-01,,https://leetcode.com/problems/koko-eating-bananas/
+2026-11-24,Tue,Revision,1318,Minimum Flips to Make a OR b Equal to c,Bit Manipulation,D+3,Not Started,Not Started,Not Started,2026-11-04,,https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/
+2026-11-24,Tue,Revision,1448,Count Good Nodes in Binary Tree,Binary Tree · DFS,D+3,Not Started,Not Started,Not Started,2026-11-03,,https://leetcode.com/problems/count-good-nodes-in-binary-tree/
+2026-11-25,Wed,New,236,Lowest Common Ancestor of a Binary Tree,Binary Tree · DFS,Original,Not Started,Not Started,Not Started,2026-11-25,,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
+2026-11-25,Wed,New,437,Path Sum III,Binary Tree · DFS,Original,Not Started,Not Started,Not Started,2026-11-25,,https://leetcode.com/problems/path-sum-iii/
+2026-11-25,Wed,New,2300,Successful Pairs of Spells and Potions,Binary Search,Original,Not Started,Not Started,Not Started,2026-11-25,,https://leetcode.com/problems/successful-pairs-of-spells-and-potions/
+2026-11-25,Wed,Revision,452,Minimum Number of Arrows to Burst Balloons,Intervals,D+7,Not Started,Not Started,Not Started,2026-11-14,,https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/
+2026-11-25,Wed,Revision,841,Keys and Rooms,Graphs · DFS,D+14,Not Started,Not Started,Not Started,2026-10-25,,https://leetcode.com/problems/keys-and-rooms/
+2026-11-25,Wed,Revision,841,Keys and Rooms,Graphs · DFS,D+3,Not Started,Not Started,Not Started,2026-11-18,,https://leetcode.com/problems/keys-and-rooms/
+2026-11-25,Wed,Revision,1004,Max Consecutive Ones III,Sliding Window,D+7,Not Started,Not Started,Not Started,2026-10-31,,https://leetcode.com/problems/max-consecutive-ones-iii/
+2026-11-25,Wed,Revision,1448,Count Good Nodes in Binary Tree,Binary Tree · DFS,D+7,Not Started,Not Started,Not Started,2026-11-03,,https://leetcode.com/problems/count-good-nodes-in-binary-tree/
+2026-11-26,Thu,New,162,Find Peak Element,Binary Search,Original,Not Started,Not Started,Not Started,2026-11-26,,https://leetcode.com/problems/find-peak-element/
+2026-11-26,Thu,New,199,Binary Tree Right Side View,Binary Tree · BFS,Original,Not Started,Not Started,Not Started,2026-11-26,,https://leetcode.com/problems/binary-tree-right-side-view/
+2026-11-26,Thu,New,1372,Longest ZigZag Path in a Binary Tree,Binary Tree · DFS,Original,Not Started,Not Started,Not Started,2026-11-26,,https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/
+2026-11-26,Thu,Revision,216,Combination Sum III,Backtracking,D+7,Not Started,Not Started,Not Started,2026-11-15,,https://leetcode.com/problems/combination-sum-iii/
+2026-11-26,Thu,Revision,547,Number of Provinces,Graphs · DFS,D+3,Not Started,Not Started,Not Started,2026-11-19,,https://leetcode.com/problems/number-of-provinces/
+2026-11-26,Thu,Revision,841,Keys and Rooms,Graphs · DFS,D+14,Not Started,Not Started,Not Started,2026-10-25,,https://leetcode.com/problems/keys-and-rooms/
+2026-11-26,Thu,Revision,1466,Reorder Routes to Make All Paths Lead to City Zero,Graphs · DFS,D+3,Not Started,Not Started,Not Started,2026-11-01,,https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/
+2026-11-26,Thu,Revision,1493,Longest Subarray of 1s After Deleting One Element,Sliding Window,D+3,Not Started,Not Started,Not Started,2026-10-22,,https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/
+2026-11-26,Thu,Revision,1657,Determine if Two Strings Are Close,Hash Map / Set,Earlier Review,Not Started,Not Started,Not Started,,,https://leetcode.com/problems/determine-if-two-strings-are-close/
+2026-11-27,Fri,New,236,Lowest Common Ancestor of a Binary Tree,Binary Tree · DFS,Original,Not Started,Not Started,Not Started,2026-11-27,,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
+2026-11-27,Fri,New,875,Koko Eating Bananas,Binary Search,Original,Not Started,Not Started,Not Started,2026-11-27,,https://leetcode.com/problems/koko-eating-bananas/
+2026-11-27,Fri,New,1161,Maximum Level Sum of a Binary Tree,Binary Tree · BFS,Original,Not Started,Not Started,Not Started,2026-11-27,,https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/
+2026-11-27,Fri,Revision,208,Implement Trie (Prefix Tree),Trie,D+14,Not Started,Not Started,Not Started,2026-11-09,,https://leetcode.com/problems/implement-trie-(prefix-tree)/
+2026-11-27,Fri,Revision,1448,Count Good Nodes in Binary Tree,Binary Tree · DFS,D+7,Not Started,Not Started,Not Started,2026-11-03,,https://leetcode.com/problems/count-good-nodes-in-binary-tree/
+2026-11-27,Fri,Revision,1493,Longest Subarray of 1s After Deleting One Element,Sliding Window,D+7,Not Started,Not Started,Not Started,2026-10-22,,https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/
+2026-11-27,Fri,Revision,1657,Determine if Two Strings Are Close,Hash Map / Set,Earlier Review,Not Started,Not Started,Not Started,,,https://leetcode.com/problems/determine-if-two-strings-are-close/
+2026-11-27,Fri,Revision,1679,Max Number of K-Sum Pairs,Two Pointers,Earlier Review,Not Started,Not Started,Not Started,,,https://leetcode.com/problems/max-number-of-k-sum-pairs/
+2026-11-27,Fri,Revision,2390,Removing Stars From a String,Stack,D+7,Not Started,Not Started,Not Started,2026-11-15,,https://leetcode.com/problems/removing-stars-from-a-string/
+2026-11-28,Sat,New,199,Binary Tree Right Side View,Binary Tree · BFS,Original,Not Started,Not Started,Not Started,2026-11-28,,https://leetcode.com/problems/binary-tree-right-side-view/
+2026-11-28,Sat,New,374,Guess Number Higher or Lower,Binary Search,Original,Not Started,Not Started,Not Started,2026-11-28,,https://leetcode.com/problems/guess-number-higher-or-lower/
+2026-11-28,Sat,New,450,Delete Node in a BST,Binary Search Tree,Original,Not Started,Not Started,Not Started,2026-11-28,,https://leetcode.com/problems/delete-node-in-a-bst/
+2026-11-28,Sat,New,700,Search in a Binary Search Tree,Binary Search Tree,Original,Not Started,Not Started,Not Started,2026-11-28,,https://leetcode.com/problems/search-in-a-binary-search-tree/
+2026-11-28,Sat,New,872,Leaf-Similar Trees,Binary Tree · DFS,Original,Not Started,Not Started,Not Started,2026-11-28,,https://leetcode.com/problems/leaf-similar-trees/
+2026-11-28,Sat,New,1448,Count Good Nodes in Binary Tree,Binary Tree · DFS,Original,Not Started,Not Started,Not Started,2026-11-28,,https://leetcode.com/problems/count-good-nodes-in-binary-tree/
+2026-11-28,Sat,Revision,394,Decode String,Stack,D+7,Not Started,Not Started,Not Started,2026-11-17,,https://leetcode.com/problems/decode-string/
+2026-11-28,Sat,Revision,735,Asteroid Collision,Stack,D+7,Not Started,Not Started,Not Started,2026-11-16,,https://leetcode.com/problems/asteroid-collision/
+2026-11-28,Sat,Revision,1466,Reorder Routes to Make All Paths Lead to City Zero,Graphs · DFS,D+3,Not Started,Not Started,Not Started,2026-11-20,,https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/
+2026-11-28,Sat,Revision,1679,Max Number of K-Sum Pairs,Two Pointers,Earlier Review,Not Started,Not Started,Not Started,,,https://leetcode.com/problems/max-number-of-k-sum-pairs/
+2026-11-28,Sat,Revision,1732,Find the Highest Altitude,Prefix Sum,Earlier Review,Not Started,Not Started,Not Started,,,https://leetcode.com/problems/find-the-highest-altitude/
+2026-11-28,Sat,Revision,1768,Merge Strings Alternately,Array / String,D+3,Not Started,Not Started,Not Started,2026-11-05,,https://leetcode.com/problems/merge-strings-alternately/
+2026-11-28,Sat,Revision,2336,Smallest Number in Infinite Set,Heap / Priority Queue,D+7,Not Started,Not Started,Not Started,2026-10-30,,https://leetcode.com/problems/smallest-number-in-infinite-set/
+2026-11-29,Sun,New,328,Odd Even Linked List,Linked List,Original,Not Started,Not Started,Not Started,2026-11-29,,https://leetcode.com/problems/odd-even-linked-list/
+2026-11-29,Sun,New,437,Path Sum III,Binary Tree · DFS,Original,Not Started,Not Started,Not Started,2026-11-29,,https://leetcode.com/problems/path-sum-iii/
+2026-11-29,Sun,New,450,Delete Node in a BST,Binary Search Tree,Original,Not Started,Not Started,Not Started,2026-11-29,,https://leetcode.com/problems/delete-node-in-a-bst/
+2026-11-29,Sun,New,700,Search in a Binary Search Tree,Binary Search Tree,Original,Not Started,Not Started,Not Started,2026-11-29,,https://leetcode.com/problems/search-in-a-binary-search-tree/
+2026-11-29,Sun,New,872,Leaf-Similar Trees,Binary Tree · DFS,Original,Not Started,Not Started,Not Started,2026-11-29,,https://leetcode.com/problems/leaf-similar-trees/
+2026-11-29,Sun,New,1161,Maximum Level Sum of a Binary Tree,Binary Tree · BFS,Original,Not Started,Not Started,Not Started,2026-11-29,,https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/
+2026-11-29,Sun,New,1372,Longest ZigZag Path in a Binary Tree,Binary Tree · DFS,Original,Not Started,Not Started,Not Started,2026-11-29,,https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/
+2026-11-29,Sun,New,2130,Maximum Twin Sum of a Linked List,Linked List,Original,Not Started,Not Started,Not Started,2026-11-29,,https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/
+2026-11-29,Sun,Revision,206,Reverse Linked List,Linked List,D+7,Not Started,Not Started,Not Started,2026-10-23,,https://leetcode.com/problems/reverse-linked-list/
+2026-11-29,Sun,Revision,399,Evaluate Division,Graphs · DFS,D+3,Not Started,Not Started,Not Started,2026-11-21,,https://leetcode.com/problems/evaluate-division/
+2026-11-29,Sun,Revision,1268,Search Suggestions System,Trie,D+14,Not Started,Not Started,Not Started,2026-11-10,,https://leetcode.com/problems/search-suggestions-system/
+2026-11-29,Sun,Revision,1466,Reorder Routes to Make All Paths Lead to City Zero,Graphs · DFS,D+7,Not Started,Not Started,Not Started,2026-11-01,,https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/
+2026-11-29,Sun,Revision,1493,Longest Subarray of 1s After Deleting One Element,Sliding Window,D+7,Not Started,Not Started,Not Started,2026-10-22,,https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/
+2026-11-29,Sun,Revision,1926,Nearest Exit from Entrance in Maze,Graphs · BFS,D+3,Not Started,Not Started,Not Started,2026-11-21,,https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/
+2026-11-29,Sun,Revision,2215,Find the Difference of Two Arrays,Hash Map / Set,D+3,Not Started,Not Started,Not Started,2026-10-21,,https://leetcode.com/problems/find-the-difference-of-two-arrays
+2026-11-29,Sun,Revision,2352,Equal Row and Column Pairs,Hash Map / Set,Earlier Review,Not Started,Not Started,Not Started,,,https://leetcode.com/problems/equal-row-and-column-pairs/
+2026-11-30,Mon,New,236,Lowest Common Ancestor of a Binary Tree,Binary Tree · DFS,Original,Not Started,Not Started,Not Started,2026-11-30,,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
+2026-11-30,Mon,New,1143,Longest Common Subsequence,DP · Multidimensional,Original,Not Started,Not Started,Not Started,2026-11-30,,https://leetcode.com/problems/longest-common-subsequence/
+2026-11-30,Mon,New,2095,Delete the Middle Node of a Linked List,Linked List,Original,Not Started,Not Started,Not Started,2026-11-30,,https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/
+2026-11-30,Mon,Revision,62,Unique Paths,DP · Multidimensional,D+14,Not Started,Not Started,Not Started,2026-10-28,,https://leetcode.com/problems/unique-paths/
+2026-11-30,Mon,Revision,136,Single Number,Bit Manipulation,D+3,Not Started,Not Started,Not Started,2026-11-08,,https://leetcode.com/problems/single-number/
+2026-11-30,Mon,Revision,739,Daily Temperatures,Monotonic Stack,D+14,Not Started,Not Started,Not Started,2026-11-11,,https://leetcode.com/problems/daily-temperatures/
+2026-11-30,Mon,Revision,841,Keys and Rooms,Graphs · DFS,D+7,Not Started,Not Started,Not Started,2026-11-18,,https://leetcode.com/problems/keys-and-rooms/
+2026-11-30,Mon,Revision,1493,Longest Subarray of 1s After Deleting One Element,Sliding Window,D+14,Not Started,Not Started,Not Started,2026-10-22,,https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/
+2026-12-01,Tue,New,199,Binary Tree Right Side View,Binary Tree · BFS,Original,Not Started,Not Started,Not Started,2026-12-01,,https://leetcode.com/problems/binary-tree-right-side-view/
+2026-12-01,Tue,New,328,Odd Even Linked List,Linked List,Original,Not Started,Not Started,Not Started,2026-12-01,,https://leetcode.com/problems/odd-even-linked-list/
+2026-12-01,Tue,New,714,Best Time to Buy and Sell Stock with Transaction Fee,DP · Multidimensional,Original,Not Started,Not Started,Not Started,2026-12-01,,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/
+2026-12-01,Tue,Revision,345,Reverse Vowels of a String,Array / String,D+3,Not Started,Not Started,Not Started,2026-11-08,,https://leetcode.com/problems/reverse-vowels-of-a-string/
+2026-12-01,Tue,Revision,392,Is Subsequence,Two Pointers,D+3,Not Started,Not Started,Not Started,2026-11-08,,https://leetcode.com/problems/is-subsequence/
+2026-12-01,Tue,Revision,994,Rotting Oranges,Graphs · BFS,D+3,Not Started,Not Started,Not Started,2026-11-22,,https://leetcode.com/problems/rotting-oranges/
+2026-12-01,Tue,Revision,2336,Smallest Number in Infinite Set,Heap / Priority Queue,D+3,Not Started,Not Started,Not Started,2026-11-22,,https://leetcode.com/problems/smallest-number-in-infinite-set/
+2026-12-01,Tue,Revision,2336,Smallest Number in Infinite Set,Heap / Priority Queue,D+7,Not Started,Not Started,Not Started,2026-10-30,,https://leetcode.com/problems/smallest-number-in-infinite-set/
+2026-12-01,Tue,Revision,2352,Equal Row and Column Pairs,Hash Map / Set,Earlier Review,Not Started,Not Started,Not Started,,,https://leetcode.com/problems/equal-row-and-column-pairs/
+2026-12-02,Wed,New,72,Edit Distance,DP · Multidimensional,Original,Not Started,Not Started,Not Started,2026-12-02,,https://leetcode.com/problems/edit-distance/
+2026-12-02,Wed,New,1161,Maximum Level Sum of a Binary Tree,Binary Tree · BFS,Original,Not Started,Not Started,Not Started,2026-12-02,,https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/
+2026-12-02,Wed,New,2130,Maximum Twin Sum of a Linked List,Linked List,Original,Not Started,Not Started,Not Started,2026-12-02,,https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/
+2026-12-02,Wed,Revision,206,Reverse Linked List,Linked List,D+14,Not Started,Not Started,Not Started,2026-10-23,,https://leetcode.com/problems/reverse-linked-list/
+2026-12-02,Wed,Revision,547,Number of Provinces,Graphs · DFS,D+7,Not Started,Not Started,Not Started,2026-11-19,,https://leetcode.com/problems/number-of-provinces/
+2026-12-02,Wed,Revision,901,Online Stock Span,Monotonic Stack,D+14,Not Started,Not Started,Not Started,2026-11-12,,https://leetcode.com/problems/online-stock-span/
+2026-12-02,Wed,Revision,1493,Longest Subarray of 1s After Deleting One Element,Sliding Window,D+14,Not Started,Not Started,Not Started,2026-10-22,,https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/
+2026-12-02,Wed,Revision,2215,Find the Difference of Two Arrays,Hash Map / Set,D+7,Not Started,Not Started,Not Started,2026-10-21,,https://leetcode.com/problems/find-the-difference-of-two-arrays
+2026-12-03,Thu,New,450,Delete Node in a BST,Binary Search Tree,Original,Not Started,Not Started,Not Started,2026-12-03,,https://leetcode.com/problems/delete-node-in-a-bst/
+2026-12-03,Thu,New,790,Domino and Tromino Tiling,DP · 1D,Original,Not Started,Not Started,Not Started,2026-12-03,,https://leetcode.com/problems/domino-and-tromino-tiling/
+2026-12-03,Thu,New,1143,Longest Common Subsequence,DP · Multidimensional,Original,Not Started,Not Started,Not Started,2026-12-03,,https://leetcode.com/problems/longest-common-subsequence/
+2026-12-03,Thu,Revision,136,Single Number,Bit Manipulation,D+3,Not Started,Not Started,Not Started,2026-11-08,,https://leetcode.com/problems/single-number/
+2026-12-03,Thu,Revision,208,Implement Trie (Prefix Tree),Trie,D+3,Not Started,Not Started,Not Started,2026-11-09,,https://leetcode.com/problems/implement-trie-(prefix-tree)/
+2026-12-03,Thu,Revision,435,Non-overlapping Intervals,Intervals,D+14,Not Started,Not Started,Not Started,2026-11-13,,https://leetcode.com/problems/non-overlapping-intervals/
+2026-12-03,Thu,Revision,1318,Minimum Flips to Make a OR b Equal to c,Bit Manipulation,D+7,Not Started,Not Started,Not Started,2026-11-04,,https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/
+2026-12-03,Thu,Revision,2095,Delete the Middle Node of a Linked List,Linked List,D+3,Not Started,Not Started,Not Started,2026-11-07,,https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/
+2026-12-03,Thu,Revision,2542,Maximum Subsequence Score,Heap / Priority Queue,D+3,Not Started,Not Started,Not Started,2026-11-23,,https://leetcode.com/problems/maximum-subsequence-score/
+2026-12-04,Fri,New,700,Search in a Binary Search Tree,Binary Search Tree,Original,Not Started,Not Started,Not Started,2026-12-04,,https://leetcode.com/problems/search-in-a-binary-search-tree/
+2026-12-04,Fri,New,714,Best Time to Buy and Sell Stock with Transaction Fee,DP · Multidimensional,Original,Not Started,Not Started,Not Started,2026-12-04,,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/
+2026-12-04,Fri,New,1137,N-th Tribonacci Number,DP · 1D,Original,Not Started,Not Started,Not Started,2026-12-04,,https://leetcode.com/problems/n-th-tribonacci-number/
+2026-12-04,Fri,Revision,338,Counting Bits,Bit Manipulation,D+14,Not Started,Not Started,Not Started,2026-10-29,,https://leetcode.com/problems/counting-bits/
+2026-12-04,Fri,Revision,392,Is Subsequence,Two Pointers,D+3,Not Started,Not Started,Not Started,2026-11-08,,https://leetcode.com/problems/is-subsequence/
+2026-12-04,Fri,Revision,1318,Minimum Flips to Make a OR b Equal to c,Bit Manipulation,D+7,Not Started,Not Started,Not Started,2026-11-04,,https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/
+2026-12-04,Fri,Revision,1466,Reorder Routes to Make All Paths Lead to City Zero,Graphs · DFS,D+7,Not Started,Not Started,Not Started,2026-11-20,,https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/
+2026-12-04,Fri,Revision,1768,Merge Strings Alternately,Array / String,D+7,Not Started,Not Started,Not Started,2026-11-05,,https://leetcode.com/problems/merge-strings-alternately/
+2026-12-04,Fri,Revision,2462,Total Cost to Hire K Workers,Heap / Priority Queue,D+3,Not Started,Not Started,Not Started,2026-11-24,,https://leetcode.com/problems/total-cost-to-hire-k-workers/
+2026-12-05,Sat,New,72,Edit Distance,DP · Multidimensional,Original,Not Started,Not Started,Not Started,2026-12-05,,https://leetcode.com/problems/edit-distance/
+2026-12-05,Sat,New,328,Odd Even Linked List,Linked List,Original,Not Started,Not Started,Not Started,2026-12-05,,https://leetcode.com/problems/odd-even-linked-list/
+2026-12-05,Sat,New,746,Min Cost Climbing Stairs,DP · 1D,Original,Not Started,Not Started,Not Started,2026-12-05,,https://leetcode.com/problems/min-cost-climbing-stairs/
+2026-12-05,Sat,New,790,Domino and Tromino Tiling,DP · 1D,Original,Not Started,Not Started,Not Started,2026-12-05,,https://leetcode.com/problems/domino-and-tromino-tiling/
+2026-12-05,Sat,New,1456,Maximum Number of Vowels in a Substring of Given Length,Sliding Window,Original,Not Started,Not Started,Not Started,2026-12-05,,https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/
+2026-12-05,Sat,New,2095,Delete the Middle Node of a Linked List,Linked List,Original,Not Started,Not Started,Not Started,2026-12-05,,https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/
+2026-12-05,Sat,Revision,17,Letter Combinations of a Phone Number,Backtracking,D+14,Not Started,Not Started,Not Started,2026-11-14,,https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+2026-12-05,Sat,Revision,208,Implement Trie (Prefix Tree),Trie,D+3,Not Started,Not Started,Not Started,2026-11-09,,https://leetcode.com/problems/implement-trie-(prefix-tree)/
+2026-12-05,Sat,Revision,399,Evaluate Division,Graphs · DFS,D+7,Not Started,Not Started,Not Started,2026-11-21,,https://leetcode.com/problems/evaluate-division/
+2026-12-05,Sat,Revision,452,Minimum Number of Arrows to Burst Balloons,Intervals,D+14,Not Started,Not Started,Not Started,2026-11-14,,https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/
+2026-12-05,Sat,Revision,1004,Max Consecutive Ones III,Sliding Window,D+14,Not Started,Not Started,Not Started,2026-10-31,,https://leetcode.com/problems/max-consecutive-ones-iii/
+2026-12-05,Sat,Revision,1207,Unique Number of Occurrences,Hash Map / Set,D+7,Not Started,Not Started,Not Started,2026-11-06,,https://leetcode.com/problems/unique-number-of-occurrences/
+2026-12-05,Sat,Revision,1268,Search Suggestions System,Trie,D+3,Not Started,Not Started,Not Started,2026-11-10,,https://leetcode.com/problems/search-suggestions-system/
+2026-12-05,Sat,Revision,2215,Find the Difference of Two Arrays,Hash Map / Set,D+14,Not Started,Not Started,Not Started,2026-10-21,,https://leetcode.com/problems/find-the-difference-of-two-arrays
+2026-12-05,Sat,Revision,2336,Smallest Number in Infinite Set,Heap / Priority Queue,D+14,Not Started,Not Started,Not Started,2026-10-30,,https://leetcode.com/problems/smallest-number-in-infinite-set/
+2026-12-06,Sun,New,62,Unique Paths,DP · Multidimensional,Original,Not Started,Not Started,Not Started,2026-12-06,,https://leetcode.com/problems/unique-paths/
+2026-12-06,Sun,New,283,Move Zeroes,Two Pointers,Original,Not Started,Not Started,Not Started,2026-12-06,,https://leetcode.com/problems/move-zeroes/
+2026-12-06,Sun,New,746,Min Cost Climbing Stairs,DP · 1D,Original,Not Started,Not Started,Not Started,2026-12-06,,https://leetcode.com/problems/min-cost-climbing-stairs/
+2026-12-06,Sun,New,1071,Greatest Common Divisor of Strings,Array / String,Original,Not Started,Not Started,Not Started,2026-12-06,,https://leetcode.com/problems/greatest-common-divisor-of-strings/
+2026-12-06,Sun,New,1137,N-th Tribonacci Number,DP · 1D,Original,Not Started,Not Started,Not Started,2026-12-06,,https://leetcode.com/problems/n-th-tribonacci-number/
+2026-12-06,Sun,New,1207,Unique Number of Occurrences,Hash Map / Set,Original,Not Started,Not Started,Not Started,2026-12-06,,https://leetcode.com/problems/unique-number-of-occurrences/
+2026-12-06,Sun,New,2130,Maximum Twin Sum of a Linked List,Linked List,Original,Not Started,Not Started,Not Started,2026-12-06,,https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/
+2026-12-06,Sun,Revision,162,Find Peak Element,Binary Search,D+3,Not Started,Not Started,Not Started,2026-11-26,,https://leetcode.com/problems/find-peak-element/
+2026-12-06,Sun,Revision,338,Counting Bits,Bit Manipulation,D+14,Not Started,Not Started,Not Started,2026-10-29,,https://leetcode.com/problems/counting-bits/
+2026-12-06,Sun,Revision,605,Can Place Flowers,Array / String,D+14,Not Started,Not Started,Not Started,2026-10-31,,https://leetcode.com/problems/can-place-flowers/
+2026-12-06,Sun,Revision,739,Daily Temperatures,Monotonic Stack,D+3,Not Started,Not Started,Not Started,2026-11-11,,https://leetcode.com/problems/daily-temperatures/
+2026-12-06,Sun,Revision,1004,Max Consecutive Ones III,Sliding Window,D+14,Not Started,Not Started,Not Started,2026-10-31,,https://leetcode.com/problems/max-consecutive-ones-iii/
+2026-12-06,Sun,Revision,1268,Search Suggestions System,Trie,D+3,Not Started,Not Started,Not Started,2026-11-10,,https://leetcode.com/problems/search-suggestions-system/
+2026-12-06,Sun,Revision,1768,Merge Strings Alternately,Array / String,D+7,Not Started,Not Started,Not Started,2026-11-05,,https://leetcode.com/problems/merge-strings-alternately/
+2026-12-06,Sun,Revision,1926,Nearest Exit from Entrance in Maze,Graphs · BFS,D+7,Not Started,Not Started,Not Started,2026-11-21,,https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/
+2026-12-06,Sun,Revision,2300,Successful Pairs of Spells and Potions,Binary Search,D+3,Not Started,Not Started,Not Started,2026-11-25,,https://leetcode.com/problems/successful-pairs-of-spells-and-potions/
+2026-12-07,Mon,New,151,Reverse Words in a String,Array / String,Original,Not Started,Not Started,Not Started,2026-12-07,,https://leetcode.com/problems/reverse-words-in-a-string/
+2026-12-07,Mon,New,1143,Longest Common Subsequence,DP · Multidimensional,Original,Not Started,Not Started,Not Started,2026-12-07,,https://leetcode.com/problems/longest-common-subsequence/
+2026-12-07,Mon,New,1456,Maximum Number of Vowels in a Substring of Given Length,Sliding Window,Original,Not Started,Not Started,Not Started,2026-12-07,,https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/
+2026-12-07,Mon,Revision,136,Single Number,Bit Manipulation,D+7,Not Started,Not Started,Not Started,2026-11-08,,https://leetcode.com/problems/single-number/
+2026-12-07,Mon,Revision,216,Combination Sum III,Backtracking,D+14,Not Started,Not Started,Not Started,2026-11-15,,https://leetcode.com/problems/combination-sum-iii/
+2026-12-07,Mon,Revision,345,Reverse Vowels of a String,Array / String,D+7,Not Started,Not Started,Not Started,2026-11-08,,https://leetcode.com/problems/reverse-vowels-of-a-string/
+2026-12-07,Mon,Revision,605,Can Place Flowers,Array / String,D+14,Not Started,Not Started,Not Started,2026-10-31,,https://leetcode.com/problems/can-place-flowers/
+2026-12-07,Mon,Revision,994,Rotting Oranges,Graphs · BFS,D+7,Not Started,Not Started,Not Started,2026-11-22,,https://leetcode.com/problems/rotting-oranges/
+2026-12-07,Mon,Revision,2336,Smallest Number in Infinite Set,Heap / Priority Queue,D+14,Not Started,Not Started,Not Started,2026-10-30,,https://leetcode.com/problems/smallest-number-in-infinite-set/
+2026-12-08,Tue,New,238,Product of Array Except Self,Array / String,Original,Not Started,Not Started,Not Started,2026-12-08,,https://leetcode.com/problems/product-of-array-except-self/
+2026-12-08,Tue,New,283,Move Zeroes,Two Pointers,Original,Not Started,Not Started,Not Started,2026-12-08,,https://leetcode.com/problems/move-zeroes/
+2026-12-08,Tue,New,714,Best Time to Buy and Sell Stock with Transaction Fee,DP · Multidimensional,Original,Not Started,Not Started,Not Started,2026-12-08,,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/
+2026-12-08,Tue,Revision,334,Increasing Triplet Subsequence,Array / String,Earlier Review,Not Started,Not Started,Not Started,,,https://leetcode.com/problems/increasing-triplet-subsequence/
+2026-12-08,Tue,Revision,392,Is Subsequence,Two Pointers,D+7,Not Started,Not Started,Not Started,2026-11-08,,https://leetcode.com/problems/is-subsequence/
+2026-12-08,Tue,Revision,739,Daily Temperatures,Monotonic Stack,D+3,Not Started,Not Started,Not Started,2026-11-11,,https://leetcode.com/problems/daily-temperatures/
+2026-12-08,Tue,Revision,875,Koko Eating Bananas,Binary Search,D+14,Not Started,Not Started,Not Started,2026-11-01,,https://leetcode.com/problems/koko-eating-bananas/
+2026-12-08,Tue,Revision,2336,Smallest Number in Infinite Set,Heap / Priority Queue,D+7,Not Started,Not Started,Not Started,2026-11-22,,https://leetcode.com/problems/smallest-number-in-infinite-set/
+2026-12-08,Tue,Revision,2390,Removing Stars From a String,Stack,D+14,Not Started,Not Started,Not Started,2026-11-15,,https://leetcode.com/problems/removing-stars-from-a-string/
+2026-12-09,Wed,New,72,Edit Distance,DP · Multidimensional,Original,Not Started,Not Started,Not Started,2026-12-09,,https://leetcode.com/problems/edit-distance/
+2026-12-09,Wed,New,151,Reverse Words in a String,Array / String,Original,Not Started,Not Started,Not Started,2026-12-09,,https://leetcode.com/problems/reverse-words-in-a-string/
+2026-12-09,Wed,New,1431,Kids With the Greatest Number of Candies,Array / String,Original,Not Started,Not Started,Not Started,2026-12-09,,https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
+2026-12-09,Wed,Revision,62,Unique Paths,DP · Multidimensional,D+3,Not Started,Not Started,Not Started,2026-12-06,,https://leetcode.com/problems/unique-paths/
+2026-12-09,Wed,Revision,334,Increasing Triplet Subsequence,Array / String,Earlier Review,Not Started,Not Started,Not Started,,,https://leetcode.com/problems/increasing-triplet-subsequence/
+2026-12-09,Wed,Revision,735,Asteroid Collision,Stack,D+14,Not Started,Not Started,Not Started,2026-11-16,,https://leetcode.com/problems/asteroid-collision/
+2026-12-09,Wed,Revision,901,Online Stock Span,Monotonic Stack,D+3,Not Started,Not Started,Not Started,2026-11-12,,https://leetcode.com/problems/online-stock-span/
+2026-12-09,Wed,Revision,1768,Merge Strings Alternately,Array / String,D+14,Not Started,Not Started,Not Started,2026-11-05,,https://leetcode.com/problems/merge-strings-alternately/
+2026-12-09,Wed,Revision,2095,Delete the Middle Node of a Linked List,Linked List,D+7,Not Started,Not Started,Not Started,2026-11-07,,https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/
+2026-12-10,Thu,New,198,House Robber,DP · 1D,Original,Not Started,Not Started,Not Started,2026-12-10,,https://leetcode.com/problems/house-robber/
+2026-12-10,Thu,New,238,Product of Array Except Self,Array / String,Original,Not Started,Not Started,Not Started,2026-12-10,,https://leetcode.com/problems/product-of-array-except-self/
+2026-12-10,Thu,New,345,Reverse Vowels of a String,Array / String,Original,Not Started,Not Started,Not Started,2026-12-10,,https://leetcode.com/problems/reverse-vowels-of-a-string/
+2026-12-10,Thu,Revision,136,Single Number,Bit Manipulation,D+7,Not Started,Not Started,Not Started,2026-11-08,,https://leetcode.com/problems/single-number/
+2026-12-10,Thu,Revision,208,Implement Trie (Prefix Tree),Trie,D+7,Not Started,Not Started,Not Started,2026-11-09,,https://leetcode.com/problems/implement-trie-(prefix-tree)/
+2026-12-10,Thu,Revision,875,Koko Eating Bananas,Binary Search,D+3,Not Started,Not Started,Not Started,2026-11-27,,https://leetcode.com/problems/koko-eating-bananas/
+2026-12-10,Thu,Revision,1071,Greatest Common Divisor of Strings,Array / String,D+3,Not Started,Not Started,Not Started,2026-12-06,,https://leetcode.com/problems/greatest-common-divisor-of-strings/
+2026-12-10,Thu,Revision,1768,Merge Strings Alternately,Array / String,D+14,Not Started,Not Started,Not Started,2026-11-05,,https://leetcode.com/problems/merge-strings-alternately/
+2026-12-10,Thu,Revision,2542,Maximum Subsequence Score,Heap / Priority Queue,D+7,Not Started,Not Started,Not Started,2026-11-23,,https://leetcode.com/problems/maximum-subsequence-score/
+2026-12-11,Fri,New,724,Find Pivot Index,Prefix Sum,Original,Not Started,Not Started,Not Started,2026-12-11,,https://leetcode.com/problems/find-pivot-index/
+2026-12-11,Fri,New,790,Domino and Tromino Tiling,DP · 1D,Original,Not Started,Not Started,Not Started,2026-12-11,,https://leetcode.com/problems/domino-and-tromino-tiling/
+2026-12-11,Fri,New,1071,Greatest Common Divisor of Strings,Array / String,Original,Not Started,Not Started,Not Started,2026-12-11,,https://leetcode.com/problems/greatest-common-divisor-of-strings/
+2026-12-11,Fri,Revision,345,Reverse Vowels of a String,Array / String,D+14,Not Started,Not Started,Not Started,2026-11-08,,https://leetcode.com/problems/reverse-vowels-of-a-string/
+2026-12-11,Fri,Revision,392,Is Subsequence,Two Pointers,D+7,Not Started,Not Started,Not Started,2026-11-08,,https://leetcode.com/problems/is-subsequence/
+2026-12-11,Fri,Revision,394,Decode String,Stack,D+14,Not Started,Not Started,Not Started,2026-11-17,,https://leetcode.com/problems/decode-string/
+2026-12-11,Fri,Revision,435,Non-overlapping Intervals,Intervals,D+3,Not Started,Not Started,Not Started,2026-11-13,,https://leetcode.com/problems/non-overlapping-intervals/
+2026-12-11,Fri,Revision,1448,Count Good Nodes in Binary Tree,Binary Tree · DFS,D+3,Not Started,Not Started,Not Started,2026-11-28,,https://leetcode.com/problems/count-good-nodes-in-binary-tree/
+2026-12-11,Fri,Revision,1732,Find the Highest Altitude,Prefix Sum,Earlier Review,Not Started,Not Started,Not Started,,,https://leetcode.com/problems/find-the-highest-altitude/
+2026-12-12,Sat,New,724,Find Pivot Index,Prefix Sum,Original,Not Started,Not Started,Not Started,2026-12-12,,https://leetcode.com/problems/find-pivot-index/
+2026-12-12,Sat,New,746,Min Cost Climbing Stairs,DP · 1D,Original,Not Started,Not Started,Not Started,2026-12-12,,https://leetcode.com/problems/min-cost-climbing-stairs/
+2026-12-12,Sat,New,1137,N-th Tribonacci Number,DP · 1D,Original,Not Started,Not Started,Not Started,2026-12-12,,https://leetcode.com/problems/n-th-tribonacci-number/
+2026-12-12,Sat,New,1431,Kids With the Greatest Number of Candies,Array / String,Original,Not Started,Not Started,Not Started,2026-12-12,,https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
+2026-12-12,Sat,Revision,17,Letter Combinations of a Phone Number,Backtracking,D+3,Not Started,Not Started,Not Started,2026-11-14,,https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+2026-12-12,Sat,Revision,374,Guess Number Higher or Lower,Binary Search,D+3,Not Started,Not Started,Not Started,2026-11-28,,https://leetcode.com/problems/guess-number-higher-or-lower/
+2026-12-12,Sat,Revision,437,Path Sum III,Binary Tree · DFS,D+3,Not Started,Not Started,Not Started,2026-11-29,,https://leetcode.com/problems/path-sum-iii/
+2026-12-12,Sat,Revision,875,Koko Eating Bananas,Binary Search,D+14,Not Started,Not Started,Not Started,2026-11-01,,https://leetcode.com/problems/koko-eating-bananas/
+2026-12-12,Sat,Revision,901,Online Stock Span,Monotonic Stack,D+3,Not Started,Not Started,Not Started,2026-11-12,,https://leetcode.com/problems/online-stock-span/
+2026-12-12,Sat,Revision,1466,Reorder Routes to Make All Paths Lead to City Zero,Graphs · DFS,D+14,Not Started,Not Started,Not Started,2026-11-01,,https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/
+2026-12-12,Sat,Revision,1679,Max Number of K-Sum Pairs,Two Pointers,Earlier Review,Not Started,Not Started,Not Started,,,https://leetcode.com/problems/max-number-of-k-sum-pairs/
+2026-12-12,Sat,Revision,1732,Find the Highest Altitude,Prefix Sum,Earlier Review,Not Started,Not Started,Not Started,,,https://leetcode.com/problems/find-the-highest-altitude/
+2026-12-12,Sat,Revision,2462,Total Cost to Hire K Workers,Heap / Priority Queue,D+7,Not Started,Not Started,Not Started,2026-11-24,,https://leetcode.com/problems/total-cost-to-hire-k-workers/
+2026-12-13,Sun,New,283,Move Zeroes,Two Pointers,Original,Not Started,Not Started,Not Started,2026-12-13,,https://leetcode.com/problems/move-zeroes/
+2026-12-13,Sun,New,1004,Max Consecutive Ones III,Sliding Window,Original,Not Started,Not Started,Not Started,2026-12-13,,https://leetcode.com/problems/max-consecutive-ones-iii/
+2026-12-13,Sun,New,1456,Maximum Number of Vowels in a Substring of Given Length,Sliding Window,Original,Not Started,Not Started,Not Started,2026-12-13,,https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/
+2026-12-13,Sun,Revision,208,Implement Trie (Prefix Tree),Trie,D+7,Not Started,Not Started,Not Started,2026-11-09,,https://leetcode.com/problems/implement-trie-(prefix-tree)/
+2026-12-13,Sun,Revision,215,Kth Largest Element in an Array,Heap / Priority Queue,D+14,Not Started,Not Started,Not Started,2026-11-02,,https://leetcode.com/problems/kth-largest-element-in-an-array/
+2026-12-13,Sun,Revision,435,Non-overlapping Intervals,Intervals,D+3,Not Started,Not Started,Not Started,2026-11-13,,https://leetcode.com/problems/non-overlapping-intervals/
+2026-12-13,Sun,Revision,452,Minimum Number of Arrows to Burst Balloons,Intervals,D+3,Not Started,Not Started,Not Started,2026-11-14,,https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/
+2026-12-13,Sun,Revision,841,Keys and Rooms,Graphs · DFS,D+14,Not Started,Not Started,Not Started,2026-11-18,,https://leetcode.com/problems/keys-and-rooms/
+2026-12-13,Sun,Revision,872,Leaf-Similar Trees,Binary Tree · DFS,D+3,Not Started,Not Started,Not Started,2026-11-29,,https://leetcode.com/problems/leaf-similar-trees/
+2026-12-13,Sun,Revision,1268,Search Suggestions System,Trie,D+7,Not Started,Not Started,Not Started,2026-11-10,,https://leetcode.com/problems/search-suggestions-system/
+2026-12-13,Sun,Revision,1372,Longest ZigZag Path in a Binary Tree,Binary Tree · DFS,D+3,Not Started,Not Started,Not Started,2026-11-29,,https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/
+2026-12-13,Sun,Revision,1448,Count Good Nodes in Binary Tree,Binary Tree · DFS,D+14,Not Started,Not Started,Not Started,2026-11-03,,https://leetcode.com/problems/count-good-nodes-in-binary-tree/
+2026-12-14,Mon,New,11,Container With Most Water,Two Pointers,Original,Not Started,Not Started,Not Started,2026-12-14,,https://leetcode.com/problems/container-with-most-water/
+2026-12-14,Mon,Revision,17,Letter Combinations of a Phone Number,Backtracking,D+3,Not Started,Not Started,Not Started,2026-11-14,,https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+2026-12-14,Mon,Revision,162,Find Peak Element,Binary Search,D+7,Not Started,Not Started,Not Started,2026-11-26,,https://leetcode.com/problems/find-peak-element/
+2026-12-14,Mon,Revision,216,Combination Sum III,Backtracking,D+3,Not Started,Not Started,Not Started,2026-11-15,,https://leetcode.com/problems/combination-sum-iii/
+2026-12-14,Mon,Revision,739,Daily Temperatures,Monotonic Stack,D+7,Not Started,Not Started,Not Started,2026-11-11,,https://leetcode.com/problems/daily-temperatures/
+2026-12-14,Mon,Revision,1679,Max Number of K-Sum Pairs,Two Pointers,Earlier Review,Not Started,Not Started,Not Started,,,https://leetcode.com/problems/max-number-of-k-sum-pairs/
+2026-12-14,Mon,Revision,2300,Successful Pairs of Spells and Potions,Binary Search,D+7,Not Started,Not Started,Not Started,2026-11-25,,https://leetcode.com/problems/successful-pairs-of-spells-and-potions/
+2026-12-15,Tue,New,1679,Max Number of K-Sum Pairs,Two Pointers,Original,Not Started,Not Started,Not Started,2026-12-15,,https://leetcode.com/problems/max-number-of-k-sum-pairs/
+2026-12-15,Tue,Revision,236,Lowest Common Ancestor of a Binary Tree,Binary Tree · DFS,D+3,Not Started,Not Started,Not Started,2026-11-30,,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
+2026-12-15,Tue,Revision,452,Minimum Number of Arrows to Burst Balloons,Intervals,D+3,Not Started,Not Started,Not Started,2026-11-14,,https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/
+2026-12-15,Tue,Revision,547,Number of Provinces,Graphs · DFS,D+14,Not Started,Not Started,Not Started,2026-11-19,,https://leetcode.com/problems/number-of-provinces/
+2026-12-15,Tue,Revision,1268,Search Suggestions System,Trie,D+7,Not Started,Not Started,Not Started,2026-11-10,,https://leetcode.com/problems/search-suggestions-system/
+2026-12-15,Tue,Revision,1318,Minimum Flips to Make a OR b Equal to c,Bit Manipulation,D+14,Not Started,Not Started,Not Started,2026-11-04,,https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/
+2026-12-15,Tue,Revision,2390,Removing Stars From a String,Stack,D+3,Not Started,Not Started,Not Started,2026-11-15,,https://leetcode.com/problems/removing-stars-from-a-string/
+2026-12-16,Wed,New,392,Is Subsequence,Two Pointers,Original,Not Started,Not Started,Not Started,2026-12-16,,https://leetcode.com/problems/is-subsequence/
+2026-12-16,Wed,Revision,199,Binary Tree Right Side View,Binary Tree · BFS,D+3,Not Started,Not Started,Not Started,2026-12-01,,https://leetcode.com/problems/binary-tree-right-side-view/
+2026-12-16,Wed,Revision,216,Combination Sum III,Backtracking,D+3,Not Started,Not Started,Not Started,2026-11-15,,https://leetcode.com/problems/combination-sum-iii/
+2026-12-16,Wed,Revision,283,Move Zeroes,Two Pointers,D+3,Not Started,Not Started,Not Started,2026-12-13,,https://leetcode.com/problems/move-zeroes/
+2026-12-16,Wed,Revision,735,Asteroid Collision,Stack,D+3,Not Started,Not Started,Not Started,2026-11-16,,https://leetcode.com/problems/asteroid-collision/
+2026-12-16,Wed,Revision,901,Online Stock Span,Monotonic Stack,D+7,Not Started,Not Started,Not Started,2026-11-12,,https://leetcode.com/problems/online-stock-span/
+2026-12-16,Wed,Revision,1448,Count Good Nodes in Binary Tree,Binary Tree · DFS,D+14,Not Started,Not Started,Not Started,2026-11-03,,https://leetcode.com/problems/count-good-nodes-in-binary-tree/
+2026-12-17,Thu,New,1657,Determine if Two Strings Are Close,Hash Map / Set,Original,Not Started,Not Started,Not Started,2026-12-17,,https://leetcode.com/problems/determine-if-two-strings-are-close/
+2026-12-17,Thu,Revision,394,Decode String,Stack,D+3,Not Started,Not Started,Not Started,2026-11-17,,https://leetcode.com/problems/decode-string/
+2026-12-17,Thu,Revision,435,Non-overlapping Intervals,Intervals,D+7,Not Started,Not Started,Not Started,2026-11-13,,https://leetcode.com/problems/non-overlapping-intervals/
+2026-12-17,Thu,Revision,739,Daily Temperatures,Monotonic Stack,D+7,Not Started,Not Started,Not Started,2026-11-11,,https://leetcode.com/problems/daily-temperatures/
+2026-12-17,Thu,Revision,875,Koko Eating Bananas,Binary Search,D+7,Not Started,Not Started,Not Started,2026-11-27,,https://leetcode.com/problems/koko-eating-bananas/
+2026-12-17,Thu,Revision,1318,Minimum Flips to Make a OR b Equal to c,Bit Manipulation,D+14,Not Started,Not Started,Not Started,2026-11-04,,https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/
+2026-12-17,Thu,Revision,1466,Reorder Routes to Make All Paths Lead to City Zero,Graphs · DFS,D+14,Not Started,Not Started,Not Started,2026-11-20,,https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/
+2026-12-18,Fri,New,2352,Equal Row and Column Pairs,Hash Map / Set,Original,Not Started,Not Started,Not Started,2026-12-18,,https://leetcode.com/problems/equal-row-and-column-pairs/
+2026-12-18,Fri,Revision,17,Letter Combinations of a Phone Number,Backtracking,D+7,Not Started,Not Started,Not Started,2026-11-14,,https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+2026-12-18,Fri,Revision,399,Evaluate Division,Graphs · DFS,D+14,Not Started,Not Started,Not Started,2026-11-21,,https://leetcode.com/problems/evaluate-division/
+2026-12-18,Fri,Revision,735,Asteroid Collision,Stack,D+3,Not Started,Not Started,Not Started,2026-11-16,,https://leetcode.com/problems/asteroid-collision/
+2026-12-18,Fri,Revision,1161,Maximum Level Sum of a Binary Tree,Binary Tree · BFS,D+3,Not Started,Not Started,Not Started,2026-12-02,,https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/
+2026-12-18,Fri,Revision,1207,Unique Number of Occurrences,Hash Map / Set,D+14,Not Started,Not Started,Not Started,2026-11-06,,https://leetcode.com/problems/unique-number-of-occurrences/
+2026-12-18,Fri,Revision,2390,Removing Stars From a String,Stack,D+3,Not Started,Not Started,Not Started,2026-11-15,,https://leetcode.com/problems/removing-stars-from-a-string/
+2026-12-19,Sat,New,151,Reverse Words in a String,Array / String,Original,Not Started,Not Started,Not Started,2026-12-19,,https://leetcode.com/problems/reverse-words-in-a-string/
+2026-12-19,Sat,New,1207,Unique Number of Occurrences,Hash Map / Set,Original,Not Started,Not Started,Not Started,2026-12-19,,https://leetcode.com/problems/unique-number-of-occurrences/
+2026-12-19,Sat,Revision,136,Single Number,Bit Manipulation,D+14,Not Started,Not Started,Not Started,2026-11-08,,https://leetcode.com/problems/single-number/
+2026-12-19,Sat,Revision,374,Guess Number Higher or Lower,Binary Search,D+7,Not Started,Not Started,Not Started,2026-11-28,,https://leetcode.com/problems/guess-number-higher-or-lower/
+2026-12-19,Sat,Revision,394,Decode String,Stack,D+3,Not Started,Not Started,Not Started,2026-11-17,,https://leetcode.com/problems/decode-string/
+2026-12-19,Sat,Revision,435,Non-overlapping Intervals,Intervals,D+7,Not Started,Not Started,Not Started,2026-11-13,,https://leetcode.com/problems/non-overlapping-intervals/
+2026-12-19,Sat,Revision,452,Minimum Number of Arrows to Burst Balloons,Intervals,D+7,Not Started,Not Started,Not Started,2026-11-14,,https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/
+2026-12-19,Sat,Revision,901,Online Stock Span,Monotonic Stack,D+7,Not Started,Not Started,Not Started,2026-11-12,,https://leetcode.com/problems/online-stock-span/
+2026-12-19,Sat,Revision,1448,Count Good Nodes in Binary Tree,Binary Tree · DFS,D+7,Not Started,Not Started,Not Started,2026-11-28,,https://leetcode.com/problems/count-good-nodes-in-binary-tree/
+2026-12-19,Sat,Revision,1466,Reorder Routes to Make All Paths Lead to City Zero,Graphs · DFS,D+3,Not Started,Not Started,Not Started,2026-11-18,,https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/
+2026-12-19,Sat,Revision,1926,Nearest Exit from Entrance in Maze,Graphs · BFS,D+14,Not Started,Not Started,Not Started,2026-11-21,,https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/
+2026-12-20,Sun,New,238,Product of Array Except Self,Array / String,Original,Not Started,Not Started,Not Started,2026-12-20,,https://leetcode.com/problems/product-of-array-except-self/
+2026-12-20,Sun,New,334,Increasing Triplet Subsequence,Array / String,Original,Not Started,Not Started,Not Started,2026-12-20,,https://leetcode.com/problems/increasing-triplet-subsequence/
+2026-12-20,Sun,New,1768,Merge Strings Alternately,Array / String,Original,Not Started,Not Started,Not Started,2026-12-20,,https://leetcode.com/problems/merge-strings-alternately/
+2026-12-20,Sun,Revision,17,Letter Combinations of a Phone Number,Backtracking,D+7,Not Started,Not Started,Not Started,2026-11-14,,https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+2026-12-20,Sun,Revision,216,Combination Sum III,Backtracking,D+7,Not Started,Not Started,Not Started,2026-11-15,,https://leetcode.com/problems/combination-sum-iii/
+2026-12-20,Sun,Revision,392,Is Subsequence,Two Pointers,D+14,Not Started,Not Started,Not Started,2026-11-08,,https://leetcode.com/problems/is-subsequence/
+2026-12-20,Sun,Revision,399,Evaluate Division,Graphs · DFS,D+3,Not Started,Not Started,Not Started,2026-11-19,,https://leetcode.com/problems/evaluate-division/
+2026-12-20,Sun,Revision,437,Path Sum III,Binary Tree · DFS,D+7,Not Started,Not Started,Not Started,2026-11-29,,https://leetcode.com/problems/path-sum-iii/
+2026-12-20,Sun,Revision,450,Delete Node in a BST,Binary Search Tree,D+3,Not Started,Not Started,Not Started,2026-12-03,,https://leetcode.com/problems/delete-node-in-a-bst/
+2026-12-20,Sun,Revision,452,Minimum Number of Arrows to Burst Balloons,Intervals,D+7,Not Started,Not Started,Not Started,2026-11-14,,https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/
+2026-12-20,Sun,Revision,547,Number of Provinces,Graphs · DFS,D+3,Not Started,Not Started,Not Started,2026-11-18,,https://leetcode.com/problems/number-of-provinces/
+2026-12-20,Sun,Revision,872,Leaf-Similar Trees,Binary Tree · DFS,D+7,Not Started,Not Started,Not Started,2026-11-29,,https://leetcode.com/problems/leaf-similar-trees/
+2026-12-21,Mon,New,443,String Compression,Array / String,Original,Not Started,Not Started,Not Started,2026-12-21,,https://leetcode.com/problems/string-compression/
+2026-12-21,Mon,Revision,136,Single Number,Bit Manipulation,D+14,Not Started,Not Started,Not Started,2026-11-08,,https://leetcode.com/problems/single-number/
+2026-12-21,Mon,Revision,208,Implement Trie (Prefix Tree),Trie,D+14,Not Started,Not Started,Not Started,2026-11-09,,https://leetcode.com/problems/implement-trie-(prefix-tree)/
+2026-12-21,Mon,Revision,994,Rotting Oranges,Graphs · BFS,D+14,Not Started,Not Started,Not Started,2026-11-22,,https://leetcode.com/problems/rotting-oranges/
+2026-12-21,Mon,Revision,1372,Longest ZigZag Path in a Binary Tree,Binary Tree · DFS,D+7,Not Started,Not Started,Not Started,2026-11-29,,https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/
+2026-12-21,Mon,Revision,2095,Delete the Middle Node of a Linked List,Linked List,D+14,Not Started,Not Started,Not Started,2026-11-07,,https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/
+2026-12-21,Mon,Revision,2390,Removing Stars From a String,Stack,D+7,Not Started,Not Started,Not Started,2026-11-15,,https://leetcode.com/problems/removing-stars-from-a-string/
+2026-12-22,Tue,New,1071,Greatest Common Divisor of Strings,Array / String,Original,Not Started,Not Started,Not Started,2026-12-22,,https://leetcode.com/problems/greatest-common-divisor-of-strings/
+2026-12-22,Tue,Revision,151,Reverse Words in a String,Array / String,D+3,Not Started,Not Started,Not Started,2026-12-19,,https://leetcode.com/problems/reverse-words-in-a-string/
+2026-12-22,Tue,Revision,216,Combination Sum III,Backtracking,D+7,Not Started,Not Started,Not Started,2026-11-15,,https://leetcode.com/problems/combination-sum-iii/
+2026-12-22,Tue,Revision,392,Is Subsequence,Two Pointers,D+14,Not Started,Not Started,Not Started,2026-11-08,,https://leetcode.com/problems/is-subsequence/
+2026-12-22,Tue,Revision,735,Asteroid Collision,Stack,D+7,Not Started,Not Started,Not Started,2026-11-16,,https://leetcode.com/problems/asteroid-collision/
+2026-12-22,Tue,Revision,933,Number of Recent Calls,Queue,Earlier Review,Not Started,Not Started,Not Started,,,https://leetcode.com/problems/number-of-recent-calls/
+2026-12-22,Tue,Revision,2336,Smallest Number in Infinite Set,Heap / Priority Queue,D+14,Not Started,Not Started,Not Started,2026-11-22,,https://leetcode.com/problems/smallest-number-in-infinite-set/
+2026-12-23,Wed,New,1431,Kids With the Greatest Number of Candies,Array / String,Original,Not Started,Not Started,Not Started,2026-12-23,,https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
+2026-12-23,Wed,Revision,236,Lowest Common Ancestor of a Binary Tree,Binary Tree · DFS,D+7,Not Started,Not Started,Not Started,2026-11-30,,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
+2026-12-23,Wed,Revision,238,Product of Array Except Self,Array / String,D+3,Not Started,Not Started,Not Started,2026-12-20,,https://leetcode.com/problems/product-of-array-except-self/
+2026-12-23,Wed,Revision,1657,Determine if Two Strings Are Close,Hash Map / Set,Earlier Review,Not Started,Not Started,Not Started,,,https://leetcode.com/problems/determine-if-two-strings-are-close/
+2026-12-23,Wed,Revision,1926,Nearest Exit from Entrance in Maze,Graphs · BFS,D+3,Not Started,Not Started,Not Started,2026-11-19,,https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/
+2026-12-23,Wed,Revision,2390,Removing Stars From a String,Stack,D+7,Not Started,Not Started,Not Started,2026-11-15,,https://leetcode.com/problems/removing-stars-from-a-string/
+2026-12-24,Thu,New,605,Can Place Flowers,Array / String,Original,Not Started,Not Started,Not Started,2026-12-24,,https://leetcode.com/problems/can-place-flowers/
+2026-12-24,Thu,Revision,208,Implement Trie (Prefix Tree),Trie,D+14,Not Started,Not Started,Not Started,2026-11-09,,https://leetcode.com/problems/implement-trie-(prefix-tree)/
+2026-12-24,Thu,Revision,394,Decode String,Stack,D+7,Not Started,Not Started,Not Started,2026-11-17,,https://leetcode.com/problems/decode-string/
+2026-12-24,Thu,Revision,700,Search in a Binary Search Tree,Binary Search Tree,D+3,Not Started,Not Started,Not Started,2026-12-04,,https://leetcode.com/problems/search-in-a-binary-search-tree/
+2026-12-24,Thu,Revision,735,Asteroid Collision,Stack,D+7,Not Started,Not Started,Not Started,2026-11-16,,https://leetcode.com/problems/asteroid-collision/
+2026-12-24,Thu,Revision,1768,Merge Strings Alternately,Array / String,D+3,Not Started,Not Started,Not Started,2026-12-20,,https://leetcode.com/problems/merge-strings-alternately/
+2026-12-24,Thu,Revision,2352,Equal Row and Column Pairs,Hash Map / Set,Earlier Review,Not Started,Not Started,Not Started,,,https://leetcode.com/problems/equal-row-and-column-pairs/
+2026-12-25,Fri,New,345,Reverse Vowels of a String,Array / String,Original,Not Started,Not Started,Not Started,2026-12-25,,https://leetcode.com/problems/reverse-vowels-of-a-string/
+2026-12-25,Fri,Revision,334,Increasing Triplet Subsequence,Array / String,D+3,Not Started,Not Started,Not Started,2026-12-20,,https://leetcode.com/problems/increasing-triplet-subsequence/
+2026-12-25,Fri,Revision,933,Number of Recent Calls,Queue,Earlier Review,Not Started,Not Started,Not Started,,,https://leetcode.com/problems/number-of-recent-calls/
+2026-12-25,Fri,Revision,994,Rotting Oranges,Graphs · BFS,D+3,Not Started,Not Started,Not Started,2026-11-20,,https://leetcode.com/problems/rotting-oranges/
+2026-12-25,Fri,Revision,1268,Search Suggestions System,Trie,D+14,Not Started,Not Started,Not Started,2026-11-10,,https://leetcode.com/problems/search-suggestions-system/
+2026-12-25,Fri,Revision,2542,Maximum Subsequence Score,Heap / Priority Queue,D+14,Not Started,Not Started,Not Started,2026-11-23,,https://leetcode.com/problems/maximum-subsequence-score/
+2026-12-26,Sat,New,338,Counting Bits,Bit Manipulation,Original,Not Started,Not Started,Not Started,2026-12-26,,https://leetcode.com/problems/counting-bits/
+2026-12-26,Sat,New,1318,Minimum Flips to Make a OR b Equal to c,Bit Manipulation,Original,Not Started,Not Started,Not Started,2026-12-26,,https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/
+2026-12-26,Sat,Revision,199,Binary Tree Right Side View,Binary Tree · BFS,D+7,Not Started,Not Started,Not Started,2026-12-01,,https://leetcode.com/problems/binary-tree-right-side-view/
+2026-12-26,Sat,Revision,328,Odd Even Linked List,Linked List,D+3,Not Started,Not Started,Not Started,2026-12-05,,https://leetcode.com/problems/odd-even-linked-list/
+2026-12-26,Sat,Revision,394,Decode String,Stack,D+7,Not Started,Not Started,Not Started,2026-11-17,,https://leetcode.com/problems/decode-string/
+2026-12-26,Sat,Revision,739,Daily Temperatures,Monotonic Stack,D+14,Not Started,Not Started,Not Started,2026-11-11,,https://leetcode.com/problems/daily-temperatures/
+2026-12-26,Sat,Revision,1466,Reorder Routes to Make All Paths Lead to City Zero,Graphs · DFS,D+7,Not Started,Not Started,Not Started,2026-11-18,,https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/
+2026-12-26,Sat,Revision,1657,Determine if Two Strings Are Close,Hash Map / Set,Earlier Review,Not Started,Not Started,Not Started,,,https://leetcode.com/problems/determine-if-two-strings-are-close/
+2026-12-26,Sat,Revision,2095,Delete the Middle Node of a Linked List,Linked List,D+3,Not Started,Not Started,Not Started,2026-12-05,,https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/
+2026-12-26,Sat,Revision,2352,Equal Row and Column Pairs,Hash Map / Set,Earlier Review,Not Started,Not Started,Not Started,,,https://leetcode.com/problems/equal-row-and-column-pairs/
+2026-12-26,Sat,Revision,2462,Total Cost to Hire K Workers,Heap / Priority Queue,D+3,Not Started,Not Started,Not Started,2026-11-22,,https://leetcode.com/problems/total-cost-to-hire-k-workers/
+2026-12-27,Sun,New,136,Single Number,Bit Manipulation,Original,Not Started,Not Started,Not Started,2026-12-27,,https://leetcode.com/problems/single-number/
+2026-12-27,Sun,New,724,Find Pivot Index,Prefix Sum,Original,Not Started,Not Started,Not Started,2026-12-27,,https://leetcode.com/problems/find-pivot-index/
+2026-12-27,Sun,New,1732,Find the Highest Altitude,Prefix Sum,Original,Not Started,Not Started,Not Started,2026-12-27,,https://leetcode.com/problems/find-the-highest-altitude/
+2026-12-27,Sun,Revision,399,Evaluate Division,Graphs · DFS,D+7,Not Started,Not Started,Not Started,2026-11-19,,https://leetcode.com/problems/evaluate-division/
+2026-12-27,Sun,Revision,901,Online Stock Span,Monotonic Stack,D+14,Not Started,Not Started,Not Started,2026-11-12,,https://leetcode.com/problems/online-stock-span/
+2026-12-27,Sun,Revision,1161,Maximum Level Sum of a Binary Tree,Binary Tree · BFS,D+7,Not Started,Not Started,Not Started,2026-12-02,,https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/
+2026-12-27,Sun,Revision,1268,Search Suggestions System,Trie,D+14,Not Started,Not Started,Not Started,2026-11-10,,https://leetcode.com/problems/search-suggestions-system/
+2026-12-27,Sun,Revision,2130,Maximum Twin Sum of a Linked List,Linked List,D+3,Not Started,Not Started,Not Started,2026-12-06,,https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/
+2026-12-27,Sun,Revision,2462,Total Cost to Hire K Workers,Heap / Priority Queue,D+14,Not Started,Not Started,Not Started,2026-11-24,,https://leetcode.com/problems/total-cost-to-hire-k-workers/
+2026-12-27,Sun,Revision,2462,Total Cost to Hire K Workers,Heap / Priority Queue,D+3,Not Started,Not Started,Not Started,2026-11-21,,https://leetcode.com/problems/total-cost-to-hire-k-workers/
+2026-12-27,Sun,Revision,2542,Maximum Subsequence Score,Heap / Priority Queue,D+3,Not Started,Not Started,Not Started,2026-11-21,,https://leetcode.com/problems/maximum-subsequence-score/
+2026-12-28,Mon,New,933,Number of Recent Calls,Queue,Original,Not Started,Not Started,Not Started,2026-12-28,,https://leetcode.com/problems/number-of-recent-calls/
+2026-12-28,Mon,Revision,162,Find Peak Element,Binary Search,D+14,Not Started,Not Started,Not Started,2026-11-26,,https://leetcode.com/problems/find-peak-element/
+2026-12-28,Mon,Revision,162,Find Peak Element,Binary Search,D+3,Not Started,Not Started,Not Started,2026-11-22,,https://leetcode.com/problems/find-peak-element/
+2026-12-28,Mon,Revision,547,Number of Provinces,Graphs · DFS,D+7,Not Started,Not Started,Not Started,2026-11-18,,https://leetcode.com/problems/number-of-provinces/
+2026-12-28,Mon,Revision,2300,Successful Pairs of Spells and Potions,Binary Search,D+14,Not Started,Not Started,Not Started,2026-11-25,,https://leetcode.com/problems/successful-pairs-of-spells-and-potions/
+2026-12-28,Mon,Revision,2300,Successful Pairs of Spells and Potions,Binary Search,D+3,Not Started,Not Started,Not Started,2026-11-23,,https://leetcode.com/problems/successful-pairs-of-spells-and-potions/
+2026-12-29,Tue,Revision,435,Non-overlapping Intervals,Intervals,D+14,Not Started,Not Started,Not Started,2026-11-13,,https://leetcode.com/problems/non-overlapping-intervals/
+2026-12-29,Tue,Revision,450,Delete Node in a BST,Binary Search Tree,D+7,Not Started,Not Started,Not Started,2026-12-03,,https://leetcode.com/problems/delete-node-in-a-bst/
+2026-12-29,Tue,Revision,739,Daily Temperatures,Monotonic Stack,D+14,Not Started,Not Started,Not Started,2026-11-11,,https://leetcode.com/problems/daily-temperatures/
+2026-12-29,Tue,Revision,872,Leaf-Similar Trees,Binary Tree · DFS,D+3,Not Started,Not Started,Not Started,2026-11-22,,https://leetcode.com/problems/leaf-similar-trees/
+2026-12-29,Tue,Revision,1143,Longest Common Subsequence,DP · Multidimensional,D+3,Not Started,Not Started,Not Started,2026-12-07,,https://leetcode.com/problems/longest-common-subsequence/
+2026-12-29,Tue,Revision,1926,Nearest Exit from Entrance in Maze,Graphs · BFS,D+7,Not Started,Not Started,Not Started,2026-11-20,,https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/
+2026-12-30,Wed,Revision,17,Letter Combinations of a Phone Number,Backtracking,D+14,Not Started,Not Started,Not Started,2026-11-14,,https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+2026-12-30,Wed,Revision,215,Kth Largest Element in an Array,Heap / Priority Queue,D+7,Not Started,Not Started,Not Started,2026-11-21,,https://leetcode.com/problems/kth-largest-element-in-an-array/
+2026-12-30,Wed,Revision,437,Path Sum III,Binary Tree · DFS,D+3,Not Started,Not Started,Not Started,2026-11-23,,https://leetcode.com/problems/path-sum-iii/
+2026-12-30,Wed,Revision,700,Search in a Binary Search Tree,Binary Search Tree,D+7,Not Started,Not Started,Not Started,2026-12-04,,https://leetcode.com/problems/search-in-a-binary-search-tree/
+2026-12-30,Wed,Revision,714,Best Time to Buy and Sell Stock with Transaction Fee,DP · Multidimensional,D+3,Not Started,Not Started,Not Started,2026-12-08,,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/
+2026-12-30,Wed,Revision,2300,Successful Pairs of Spells and Potions,Binary Search,D+3,Not Started,Not Started,Not Started,2026-11-22,,https://leetcode.com/problems/successful-pairs-of-spells-and-potions/
+2026-12-31,Thu,Revision,72,Edit Distance,DP · Multidimensional,D+3,Not Started,Not Started,Not Started,2026-12-09,,https://leetcode.com/problems/edit-distance/
+2026-12-31,Thu,Revision,437,Path Sum III,Binary Tree · DFS,D+3,Not Started,Not Started,Not Started,2026-11-25,,https://leetcode.com/problems/path-sum-iii/
+2026-12-31,Thu,Revision,452,Minimum Number of Arrows to Burst Balloons,Intervals,D+14,Not Started,Not Started,Not Started,2026-11-14,,https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/
+2026-12-31,Thu,Revision,875,Koko Eating Bananas,Binary Search,D+14,Not Started,Not Started,Not Started,2026-11-27,,https://leetcode.com/problems/koko-eating-bananas/
+2026-12-31,Thu,Revision,901,Online Stock Span,Monotonic Stack,D+14,Not Started,Not Started,Not Started,2026-11-12,,https://leetcode.com/problems/online-stock-span/
+2026-12-31,Thu,Revision,1926,Nearest Exit from Entrance in Maze,Graphs · BFS,D+7,Not Started,Not Started,Not Started,2026-11-19,,https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/
+2027-01-01,Fri,Revision,216,Combination Sum III,Backtracking,D+14,Not Started,Not Started,Not Started,2026-11-15,,https://leetcode.com/problems/combination-sum-iii/
+2027-01-01,Fri,Revision,328,Odd Even Linked List,Linked List,D+7,Not Started,Not Started,Not Started,2026-12-05,,https://leetcode.com/problems/odd-even-linked-list/
+2027-01-01,Fri,Revision,435,Non-overlapping Intervals,Intervals,D+14,Not Started,Not Started,Not Started,2026-11-13,,https://leetcode.com/problems/non-overlapping-intervals/
+2027-01-01,Fri,Revision,994,Rotting Oranges,Graphs · BFS,D+7,Not Started,Not Started,Not Started,2026-11-20,,https://leetcode.com/problems/rotting-oranges/
+2027-01-01,Fri,Revision,1448,Count Good Nodes in Binary Tree,Binary Tree · DFS,D+14,Not Started,Not Started,Not Started,2026-11-28,,https://leetcode.com/problems/count-good-nodes-in-binary-tree/
+2027-01-02,Sat,Revision,17,Letter Combinations of a Phone Number,Backtracking,D+14,Not Started,Not Started,Not Started,2026-11-14,,https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+2027-01-02,Sat,Revision,62,Unique Paths,DP · Multidimensional,D+7,Not Started,Not Started,Not Started,2026-12-06,,https://leetcode.com/problems/unique-paths/
+2027-01-02,Sat,Revision,236,Lowest Common Ancestor of a Binary Tree,Binary Tree · DFS,D+3,Not Started,Not Started,Not Started,2026-11-25,,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
+2027-01-02,Sat,Revision,374,Guess Number Higher or Lower,Binary Search,D+14,Not Started,Not Started,Not Started,2026-11-28,,https://leetcode.com/problems/guess-number-higher-or-lower/
+2027-01-02,Sat,Revision,1372,Longest ZigZag Path in a Binary Tree,Binary Tree · DFS,D+3,Not Started,Not Started,Not Started,2026-11-24,,https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/
+2027-01-02,Sat,Revision,2095,Delete the Middle Node of a Linked List,Linked List,D+7,Not Started,Not Started,Not Started,2026-12-05,,https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/
+2027-01-02,Sat,Revision,2390,Removing Stars From a String,Stack,D+14,Not Started,Not Started,Not Started,2026-11-15,,https://leetcode.com/problems/removing-stars-from-a-string/
+2027-01-02,Sat,Revision,2462,Total Cost to Hire K Workers,Heap / Priority Queue,D+7,Not Started,Not Started,Not Started,2026-11-22,,https://leetcode.com/problems/total-cost-to-hire-k-workers/
+2027-01-03,Sun,Revision,11,Container With Most Water,Two Pointers,Earlier Review,Not Started,Not Started,Not Started,,,https://leetcode.com/problems/container-with-most-water/
+2027-01-03,Sun,Revision,198,House Robber,DP · 1D,D+3,Not Started,Not Started,Not Started,2026-12-10,,https://leetcode.com/problems/house-robber/
+2027-01-03,Sun,Revision,236,Lowest Common Ancestor of a Binary Tree,Binary Tree · DFS,D+3,Not Started,Not Started,Not Started,2026-11-27,,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
+2027-01-03,Sun,Revision,437,Path Sum III,Binary Tree · DFS,D+14,Not Started,Not Started,Not Started,2026-11-29,,https://leetcode.com/problems/path-sum-iii/
+2027-01-03,Sun,Revision,452,Minimum Number of Arrows to Burst Balloons,Intervals,D+14,Not Started,Not Started,Not Started,2026-11-14,,https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/
+2027-01-03,Sun,Revision,872,Leaf-Similar Trees,Binary Tree · DFS,D+14,Not Started,Not Started,Not Started,2026-11-29,,https://leetcode.com/problems/leaf-similar-trees/
+2027-01-03,Sun,Revision,2462,Total Cost to Hire K Workers,Heap / Priority Queue,D+7,Not Started,Not Started,Not Started,2026-11-21,,https://leetcode.com/problems/total-cost-to-hire-k-workers/
+2027-01-03,Sun,Revision,2542,Maximum Subsequence Score,Heap / Priority Queue,D+7,Not Started,Not Started,Not Started,2026-11-21,,https://leetcode.com/problems/maximum-subsequence-score/
+2027-01-04,Mon,Revision,162,Find Peak Element,Binary Search,D+7,Not Started,Not Started,Not Started,2026-11-22,,https://leetcode.com/problems/find-peak-element/
+2027-01-04,Mon,Revision,199,Binary Tree Right Side View,Binary Tree · BFS,D+3,Not Started,Not Started,Not Started,2026-11-26,,https://leetcode.com/problems/binary-tree-right-side-view/
+2027-01-04,Mon,Revision,334,Increasing Triplet Subsequence,Array / String,Earlier Review,Not Started,Not Started,Not Started,,,https://leetcode.com/problems/increasing-triplet-subsequence/
+2027-01-04,Mon,Revision,374,Guess Number Higher or Lower,Binary Search,Earlier Review,Not Started,Not Started,Not Started,,,https://leetcode.com/problems/guess-number-higher-or-lower/
+2027-01-04,Mon,Revision,1372,Longest ZigZag Path in a Binary Tree,Binary Tree · DFS,D+14,Not Started,Not Started,Not Started,2026-11-29,,https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/
+2027-01-04,Mon,Revision,2130,Maximum Twin Sum of a Linked List,Linked List,D+7,Not Started,Not Started,Not Started,2026-12-06,,https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/
+2027-01-05,Tue,Revision,216,Combination Sum III,Backtracking,D+14,Not Started,Not Started,Not Started,2026-11-15,,https://leetcode.com/problems/combination-sum-iii/
+2027-01-05,Tue,Revision,236,Lowest Common Ancestor of a Binary Tree,Binary Tree · DFS,D+14,Not Started,Not Started,Not Started,2026-11-30,,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
+2027-01-05,Tue,Revision,735,Asteroid Collision,Stack,D+14,Not Started,Not Started,Not Started,2026-11-16,,https://leetcode.com/problems/asteroid-collision/
+2027-01-05,Tue,Revision,790,Domino and Tromino Tiling,DP · 1D,D+3,Not Started,Not Started,Not Started,2026-12-11,,https://leetcode.com/problems/domino-and-tromino-tiling/
+2027-01-05,Tue,Revision,872,Leaf-Similar Trees,Binary Tree · DFS,D+7,Not Started,Not Started,Not Started,2026-11-22,,https://leetcode.com/problems/leaf-similar-trees/
+2027-01-05,Tue,Revision,2300,Successful Pairs of Spells and Potions,Binary Search,D+7,Not Started,Not Started,Not Started,2026-11-23,,https://leetcode.com/problems/successful-pairs-of-spells-and-potions/
+2027-01-06,Wed,Revision,162,Find Peak Element,Binary Search,D+7,Not Started,Not Started,Not Started,2026-11-24,,https://leetcode.com/problems/find-peak-element/
+2027-01-06,Wed,Revision,199,Binary Tree Right Side View,Binary Tree · BFS,D+14,Not Started,Not Started,Not Started,2026-12-01,,https://leetcode.com/problems/binary-tree-right-side-view/
+2027-01-06,Wed,Revision,199,Binary Tree Right Side View,Binary Tree · BFS,D+3,Not Started,Not Started,Not Started,2026-11-28,,https://leetcode.com/problems/binary-tree-right-side-view/
+2027-01-06,Wed,Revision,1143,Longest Common Subsequence,DP · Multidimensional,D+7,Not Started,Not Started,Not Started,2026-12-07,,https://leetcode.com/problems/longest-common-subsequence/
+2027-01-06,Wed,Revision,2300,Successful Pairs of Spells and Potions,Binary Search,D+7,Not Started,Not Started,Not Started,2026-11-22,,https://leetcode.com/problems/successful-pairs-of-spells-and-potions/
+2027-01-06,Wed,Revision,2390,Removing Stars From a String,Stack,D+14,Not Started,Not Started,Not Started,2026-11-15,,https://leetcode.com/problems/removing-stars-from-a-string/
+2027-01-07,Thu,Revision,11,Container With Most Water,Two Pointers,Earlier Review,Not Started,Not Started,Not Started,,,https://leetcode.com/problems/container-with-most-water/
+2027-01-07,Thu,Revision,334,Increasing Triplet Subsequence,Array / String,Earlier Review,Not Started,Not Started,Not Started,,,https://leetcode.com/problems/increasing-triplet-subsequence/
+2027-01-07,Thu,Revision,394,Decode String,Stack,D+14,Not Started,Not Started,Not Started,2026-11-17,,https://leetcode.com/problems/decode-string/
+2027-01-07,Thu,Revision,714,Best Time to Buy and Sell Stock with Transaction Fee,DP · Multidimensional,D+7,Not Started,Not Started,Not Started,2026-12-08,,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/
+2027-01-07,Thu,Revision,746,Min Cost Climbing Stairs,DP · 1D,D+3,Not Started,Not Started,Not Started,2026-12-12,,https://leetcode.com/problems/min-cost-climbing-stairs/
+2027-01-07,Thu,Revision,872,Leaf-Similar Trees,Binary Tree · DFS,D+3,Not Started,Not Started,Not Started,2026-11-28,,https://leetcode.com/problems/leaf-similar-trees/
+2027-01-08,Fri,Revision,72,Edit Distance,DP · Multidimensional,D+7,Not Started,Not Started,Not Started,2026-12-09,,https://leetcode.com/problems/edit-distance/
+2027-01-08,Fri,Revision,374,Guess Number Higher or Lower,Binary Search,Earlier Review,Not Started,Not Started,Not Started,,,https://leetcode.com/problems/guess-number-higher-or-lower/
+2027-01-08,Fri,Revision,437,Path Sum III,Binary Tree · DFS,D+7,Not Started,Not Started,Not Started,2026-11-23,,https://leetcode.com/problems/path-sum-iii/
+2027-01-08,Fri,Revision,450,Delete Node in a BST,Binary Search Tree,D+3,Not Started,Not Started,Not Started,2026-11-29,,https://leetcode.com/problems/delete-node-in-a-bst/
+2027-01-08,Fri,Revision,1137,N-th Tribonacci Number,DP · 1D,D+3,Not Started,Not Started,Not Started,2026-12-12,,https://leetcode.com/problems/n-th-tribonacci-number/
+2027-01-09,Sat,Revision,394,Decode String,Stack,D+14,Not Started,Not Started,Not Started,2026-11-17,,https://leetcode.com/problems/decode-string/
+2027-01-09,Sat,Revision,700,Search in a Binary Search Tree,Binary Search Tree,D+3,Not Started,Not Started,Not Started,2026-11-29,,https://leetcode.com/problems/search-in-a-binary-search-tree/
+2027-01-09,Sat,Revision,735,Asteroid Collision,Stack,D+14,Not Started,Not Started,Not Started,2026-11-16,,https://leetcode.com/problems/asteroid-collision/
+2027-01-09,Sat,Revision,1004,Max Consecutive Ones III,Sliding Window,D+3,Not Started,Not Started,Not Started,2026-12-13,,https://leetcode.com/problems/max-consecutive-ones-iii/
+2027-01-09,Sat,Revision,1161,Maximum Level Sum of a Binary Tree,Binary Tree · BFS,D+14,Not Started,Not Started,Not Started,2026-12-02,,https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/
+2027-01-09,Sat,Revision,1161,Maximum Level Sum of a Binary Tree,Binary Tree · BFS,D+3,Not Started,Not Started,Not Started,2026-11-27,,https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/
+2027-01-09,Sat,Revision,1456,Maximum Number of Vowels in a Substring of Given Length,Sliding Window,D+3,Not Started,Not Started,Not Started,2026-12-13,,https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/
+2027-01-09,Sat,Revision,1466,Reorder Routes to Make All Paths Lead to City Zero,Graphs · DFS,D+14,Not Started,Not Started,Not Started,2026-11-18,,https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/
+2027-01-10,Sun,Revision,11,Container With Most Water,Two Pointers,D+3,Not Started,Not Started,Not Started,2026-12-14,,https://leetcode.com/problems/container-with-most-water/
+2027-01-10,Sun,Revision,198,House Robber,DP · 1D,D+7,Not Started,Not Started,Not Started,2026-12-10,,https://leetcode.com/problems/house-robber/
+2027-01-10,Sun,Revision,399,Evaluate Division,Graphs · DFS,D+14,Not Started,Not Started,Not Started,2026-11-19,,https://leetcode.com/problems/evaluate-division/
+2027-01-10,Sun,Revision,450,Delete Node in a BST,Binary Search Tree,D+14,Not Started,Not Started,Not Started,2026-12-03,,https://leetcode.com/problems/delete-node-in-a-bst/
+2027-01-10,Sun,Revision,450,Delete Node in a BST,Binary Search Tree,D+3,Not Started,Not Started,Not Started,2026-11-28,,https://leetcode.com/problems/delete-node-in-a-bst/
+2027-01-10,Sun,Revision,700,Search in a Binary Search Tree,Binary Search Tree,D+3,Not Started,Not Started,Not Started,2026-11-28,,https://leetcode.com/problems/search-in-a-binary-search-tree/
+2027-01-10,Sun,Revision,1372,Longest ZigZag Path in a Binary Tree,Binary Tree · DFS,D+7,Not Started,Not Started,Not Started,2026-11-24,,https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/
+2027-01-10,Sun,Revision,2095,Delete the Middle Node of a Linked List,Linked List,D+3,Not Started,Not Started,Not Started,2026-11-30,,https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/
+2027-01-11,Mon,Revision,236,Lowest Common Ancestor of a Binary Tree,Binary Tree · DFS,D+7,Not Started,Not Started,Not Started,2026-11-25,,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
+2027-01-11,Mon,Revision,328,Odd Even Linked List,Linked List,D+3,Not Started,Not Started,Not Started,2026-11-29,,https://leetcode.com/problems/odd-even-linked-list/
+2027-01-11,Mon,Revision,700,Search in a Binary Search Tree,Binary Search Tree,D+14,Not Started,Not Started,Not Started,2026-12-04,,https://leetcode.com/problems/search-in-a-binary-search-tree/
+2027-01-11,Mon,Revision,790,Domino and Tromino Tiling,DP · 1D,D+7,Not Started,Not Started,Not Started,2026-12-11,,https://leetcode.com/problems/domino-and-tromino-tiling/
+2027-01-12,Tue,Revision,199,Binary Tree Right Side View,Binary Tree · BFS,D+7,Not Started,Not Started,Not Started,2026-11-28,,https://leetcode.com/problems/binary-tree-right-side-view/
+2027-01-12,Tue,Revision,328,Odd Even Linked List,Linked List,D+14,Not Started,Not Started,Not Started,2026-12-05,,https://leetcode.com/problems/odd-even-linked-list/
+2027-01-12,Tue,Revision,547,Number of Provinces,Graphs · DFS,D+14,Not Started,Not Started,Not Started,2026-11-18,,https://leetcode.com/problems/number-of-provinces/
+2027-01-12,Tue,Revision,1679,Max Number of K-Sum Pairs,Two Pointers,D+3,Not Started,Not Started,Not Started,2026-12-15,,https://leetcode.com/problems/max-number-of-k-sum-pairs/
+2027-01-12,Tue,Revision,1926,Nearest Exit from Entrance in Maze,Graphs · BFS,D+14,Not Started,Not Started,Not Started,2026-11-20,,https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/
+2027-01-12,Tue,Revision,2130,Maximum Twin Sum of a Linked List,Linked List,D+3,Not Started,Not Started,Not Started,2026-11-29,,https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/
+2027-01-13,Wed,Revision,199,Binary Tree Right Side View,Binary Tree · BFS,D+7,Not Started,Not Started,Not Started,2026-11-26,,https://leetcode.com/problems/binary-tree-right-side-view/
+2027-01-13,Wed,Revision,215,Kth Largest Element in an Array,Heap / Priority Queue,D+14,Not Started,Not Started,Not Started,2026-11-21,,https://leetcode.com/problems/kth-largest-element-in-an-array/
+2027-01-13,Wed,Revision,374,Guess Number Higher or Lower,Binary Search,Earlier Review,Not Started,Not Started,Not Started,2026-11-28,,https://leetcode.com/problems/guess-number-higher-or-lower/
+2027-01-13,Wed,Revision,392,Is Subsequence,Two Pointers,D+3,Not Started,Not Started,Not Started,2026-12-16,,https://leetcode.com/problems/is-subsequence/
+2027-01-13,Wed,Revision,872,Leaf-Similar Trees,Binary Tree · DFS,D+7,Not Started,Not Started,Not Started,2026-11-28,,https://leetcode.com/problems/leaf-similar-trees/
+2027-01-13,Wed,Revision,1143,Longest Common Subsequence,DP · Multidimensional,D+3,Not Started,Not Started,Not Started,2026-11-30,,https://leetcode.com/problems/longest-common-subsequence/
+2027-01-14,Thu,Revision,714,Best Time to Buy and Sell Stock with Transaction Fee,DP · Multidimensional,D+3,Not Started,Not Started,Not Started,2026-12-01,,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/
+2027-01-14,Thu,Revision,746,Min Cost Climbing Stairs,DP · 1D,D+7,Not Started,Not Started,Not Started,2026-12-12,,https://leetcode.com/problems/min-cost-climbing-stairs/
+2027-01-14,Thu,Revision,994,Rotting Oranges,Graphs · BFS,D+14,Not Started,Not Started,Not Started,2026-11-21,,https://leetcode.com/problems/rotting-oranges/
+2027-01-14,Thu,Revision,1137,N-th Tribonacci Number,DP · 1D,D+7,Not Started,Not Started,Not Started,2026-12-12,,https://leetcode.com/problems/n-th-tribonacci-number/
+2027-01-14,Thu,Revision,1926,Nearest Exit from Entrance in Maze,Graphs · BFS,D+14,Not Started,Not Started,Not Started,2026-11-19,,https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/
+2027-01-14,Thu,Revision,2130,Maximum Twin Sum of a Linked List,Linked List,D+3,Not Started,Not Started,Not Started,2026-12-02,,https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/
+2027-01-15,Fri,Revision,62,Unique Paths,DP · Multidimensional,D+14,Not Started,Not Started,Not Started,2026-12-06,,https://leetcode.com/problems/unique-paths/
+2027-01-15,Fri,Revision,450,Delete Node in a BST,Binary Search Tree,D+7,Not Started,Not Started,Not Started,2026-11-29,,https://leetcode.com/problems/delete-node-in-a-bst/
+2027-01-15,Fri,Revision,700,Search in a Binary Search Tree,Binary Search Tree,D+7,Not Started,Not Started,Not Started,2026-11-29,,https://leetcode.com/problems/search-in-a-binary-search-tree/
+2027-01-15,Fri,Revision,994,Rotting Oranges,Graphs · BFS,D+14,Not Started,Not Started,Not Started,2026-11-20,,https://leetcode.com/problems/rotting-oranges/
+2027-01-15,Fri,Revision,1161,Maximum Level Sum of a Binary Tree,Binary Tree · BFS,D+7,Not Started,Not Started,Not Started,2026-11-27,,https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/
+2027-01-15,Fri,Revision,2095,Delete the Middle Node of a Linked List,Linked List,D+14,Not Started,Not Started,Not Started,2026-12-05,,https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/
+2027-01-16,Sat,Revision,72,Edit Distance,DP · Multidimensional,D+3,Not Started,Not Started,Not Started,2026-12-02,,https://leetcode.com/problems/edit-distance/
+2027-01-16,Sat,Revision,283,Move Zeroes,Two Pointers,D+7,Not Started,Not Started,Not Started,2026-12-13,,https://leetcode.com/problems/move-zeroes/
+2027-01-16,Sat,Revision,450,Delete Node in a BST,Binary Search Tree,D+7,Not Started,Not Started,Not Started,2026-11-28,,https://leetcode.com/problems/delete-node-in-a-bst/
+2027-01-16,Sat,Revision,700,Search in a Binary Search Tree,Binary Search Tree,D+7,Not Started,Not Started,Not Started,2026-11-28,,https://leetcode.com/problems/search-in-a-binary-search-tree/
+2027-01-16,Sat,Revision,1004,Max Consecutive Ones III,Sliding Window,D+7,Not Started,Not Started,Not Started,2026-12-13,,https://leetcode.com/problems/max-consecutive-ones-iii/
+2027-01-16,Sat,Revision,1143,Longest Common Subsequence,DP · Multidimensional,D+3,Not Started,Not Started,Not Started,2026-12-03,,https://leetcode.com/problems/longest-common-subsequence/
+2027-01-16,Sat,Revision,1161,Maximum Level Sum of a Binary Tree,Binary Tree · BFS,D+7,Not Started,Not Started,Not Started,2026-11-29,,https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/
+2027-01-16,Sat,Revision,1456,Maximum Number of Vowels in a Substring of Given Length,Sliding Window,D+7,Not Started,Not Started,Not Started,2026-12-13,,https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/
+2027-01-16,Sat,Revision,2462,Total Cost to Hire K Workers,Heap / Priority Queue,D+14,Not Started,Not Started,Not Started,2026-11-22,,https://leetcode.com/problems/total-cost-to-hire-k-workers/
+2027-01-17,Sun,Revision,162,Find Peak Element,Binary Search,D+14,Not Started,Not Started,Not Started,2026-11-22,,https://leetcode.com/problems/find-peak-element/
+2027-01-17,Sun,Revision,714,Best Time to Buy and Sell Stock with Transaction Fee,DP · Multidimensional,D+3,Not Started,Not Started,Not Started,2026-12-04,,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/
+2027-01-17,Sun,Revision,1143,Longest Common Subsequence,DP · Multidimensional,D+14,Not Started,Not Started,Not Started,2026-12-07,,https://leetcode.com/problems/longest-common-subsequence/
+2027-01-17,Sun,Revision,1657,Determine if Two Strings Are Close,Hash Map / Set,D+3,Not Started,Not Started,Not Started,2026-12-17,,https://leetcode.com/problems/determine-if-two-strings-are-close/
+2027-01-17,Sun,Revision,2095,Delete the Middle Node of a Linked List,Linked List,D+7,Not Started,Not Started,Not Started,2026-11-30,,https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/
+2027-01-17,Sun,Revision,2130,Maximum Twin Sum of a Linked List,Linked List,D+14,Not Started,Not Started,Not Started,2026-12-06,,https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/
+2027-01-17,Sun,Revision,2462,Total Cost to Hire K Workers,Heap / Priority Queue,D+14,Not Started,Not Started,Not Started,2026-11-21,,https://leetcode.com/problems/total-cost-to-hire-k-workers/
+2027-01-17,Sun,Revision,2542,Maximum Subsequence Score,Heap / Priority Queue,D+14,Not Started,Not Started,Not Started,2026-11-21,,https://leetcode.com/problems/maximum-subsequence-score/
+2027-01-18,Mon,Revision,11,Container With Most Water,Two Pointers,D+7,Not Started,Not Started,Not Started,2026-12-14,,https://leetcode.com/problems/container-with-most-water/
+2027-01-18,Mon,Revision,72,Edit Distance,DP · Multidimensional,D+3,Not Started,Not Started,Not Started,2026-12-05,,https://leetcode.com/problems/edit-distance/
+2027-01-18,Mon,Revision,328,Odd Even Linked List,Linked List,D+7,Not Started,Not Started,Not Started,2026-11-29,,https://leetcode.com/problems/odd-even-linked-list/
+2027-01-18,Mon,Revision,790,Domino and Tromino Tiling,DP · 1D,D+3,Not Started,Not Started,Not Started,2026-12-03,,https://leetcode.com/problems/domino-and-tromino-tiling/
+2027-01-18,Mon,Revision,2300,Successful Pairs of Spells and Potions,Binary Search,D+14,Not Started,Not Started,Not Started,2026-11-23,,https://leetcode.com/problems/successful-pairs-of-spells-and-potions/
+2027-01-18,Mon,Revision,2352,Equal Row and Column Pairs,Hash Map / Set,D+3,Not Started,Not Started,Not Started,2026-12-18,,https://leetcode.com/problems/equal-row-and-column-pairs/
+2027-01-19,Tue,Revision,162,Find Peak Element,Binary Search,D+14,Not Started,Not Started,Not Started,2026-11-24,,https://leetcode.com/problems/find-peak-element/
+2027-01-19,Tue,Revision,328,Odd Even Linked List,Linked List,D+7,Not Started,Not Started,Not Started,2026-12-01,,https://leetcode.com/problems/odd-even-linked-list/
+2027-01-19,Tue,Revision,714,Best Time to Buy and Sell Stock with Transaction Fee,DP · Multidimensional,D+14,Not Started,Not Started,Not Started,2026-12-08,,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/
+2027-01-19,Tue,Revision,872,Leaf-Similar Trees,Binary Tree · DFS,D+14,Not Started,Not Started,Not Started,2026-11-22,,https://leetcode.com/problems/leaf-similar-trees/
+2027-01-19,Tue,Revision,1207,Unique Number of Occurrences,Hash Map / Set,D+3,Not Started,Not Started,Not Started,2026-12-19,,https://leetcode.com/problems/unique-number-of-occurrences/
+2027-01-19,Tue,Revision,2130,Maximum Twin Sum of a Linked List,Linked List,D+7,Not Started,Not Started,Not Started,2026-11-29,,https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/
+2027-01-20,Wed,Revision,72,Edit Distance,DP · Multidimensional,D+14,Not Started,Not Started,Not Started,2026-12-09,,https://leetcode.com/problems/edit-distance/
+2027-01-20,Wed,Revision,437,Path Sum III,Binary Tree · DFS,D+14,Not Started,Not Started,Not Started,2026-11-23,,https://leetcode.com/problems/path-sum-iii/
+2027-01-20,Wed,Revision,790,Domino and Tromino Tiling,DP · 1D,D+3,Not Started,Not Started,Not Started,2026-12-05,,https://leetcode.com/problems/domino-and-tromino-tiling/
+2027-01-20,Wed,Revision,1679,Max Number of K-Sum Pairs,Two Pointers,D+7,Not Started,Not Started,Not Started,2026-12-15,,https://leetcode.com/problems/max-number-of-k-sum-pairs/
+2027-01-20,Wed,Revision,2300,Successful Pairs of Spells and Potions,Binary Search,D+14,Not Started,Not Started,Not Started,2026-11-22,,https://leetcode.com/problems/successful-pairs-of-spells-and-potions/
+2027-01-21,Thu,Revision,198,House Robber,DP · 1D,D+14,Not Started,Not Started,Not Started,2026-12-10,,https://leetcode.com/problems/house-robber/
+2027-01-21,Thu,Revision,392,Is Subsequence,Two Pointers,D+7,Not Started,Not Started,Not Started,2026-12-16,,https://leetcode.com/problems/is-subsequence/
+2027-01-21,Thu,Revision,746,Min Cost Climbing Stairs,DP · 1D,D+3,Not Started,Not Started,Not Started,2026-12-06,,https://leetcode.com/problems/min-cost-climbing-stairs/
+2027-01-21,Thu,Revision,1137,N-th Tribonacci Number,DP · 1D,D+3,Not Started,Not Started,Not Started,2026-12-04,,https://leetcode.com/problems/n-th-tribonacci-number/
+2027-01-21,Thu,Revision,1143,Longest Common Subsequence,DP · Multidimensional,D+7,Not Started,Not Started,Not Started,2026-11-30,,https://leetcode.com/problems/longest-common-subsequence/
+2027-01-22,Fri,Revision,443,String Compression,Array / String,D+3,Not Started,Not Started,Not Started,2026-12-21,,https://leetcode.com/problems/string-compression/
+2027-01-22,Fri,Revision,714,Best Time to Buy and Sell Stock with Transaction Fee,DP · Multidimensional,D+7,Not Started,Not Started,Not Started,2026-12-01,,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/
+2027-01-22,Fri,Revision,746,Min Cost Climbing Stairs,DP · 1D,D+3,Not Started,Not Started,Not Started,2026-12-05,,https://leetcode.com/problems/min-cost-climbing-stairs/
+2027-01-22,Fri,Revision,1143,Longest Common Subsequence,DP · Multidimensional,D+7,Not Started,Not Started,Not Started,2026-12-03,,https://leetcode.com/problems/longest-common-subsequence/
+2027-01-22,Fri,Revision,1657,Determine if Two Strings Are Close,Hash Map / Set,D+7,Not Started,Not Started,Not Started,2026-12-17,,https://leetcode.com/problems/determine-if-two-strings-are-close/
+2027-01-22,Fri,Revision,2130,Maximum Twin Sum of a Linked List,Linked List,D+7,Not Started,Not Started,Not Started,2026-12-02,,https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/
+2027-01-23,Sat,Revision,72,Edit Distance,DP · Multidimensional,D+7,Not Started,Not Started,Not Started,2026-12-02,,https://leetcode.com/problems/edit-distance/
+2027-01-23,Sat,Revision,236,Lowest Common Ancestor of a Binary Tree,Binary Tree · DFS,D+14,Not Started,Not Started,Not Started,2026-11-27,,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
+2027-01-23,Sat,Revision,790,Domino and Tromino Tiling,DP · 1D,D+14,Not Started,Not Started,Not Started,2026-12-11,,https://leetcode.com/problems/domino-and-tromino-tiling/
+2027-01-23,Sat,Revision,1071,Greatest Common Divisor of Strings,Array / String,D+3,Not Started,Not Started,Not Started,2026-12-22,,https://leetcode.com/problems/greatest-common-divisor-of-strings/
+2027-01-23,Sat,Revision,1372,Longest ZigZag Path in a Binary Tree,Binary Tree · DFS,D+14,Not Started,Not Started,Not Started,2026-11-24,,https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/
+2027-01-23,Sat,Revision,1456,Maximum Number of Vowels in a Substring of Given Length,Sliding Window,D+3,Not Started,Not Started,Not Started,2026-12-05,,https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/
+2027-01-23,Sat,Revision,2352,Equal Row and Column Pairs,Hash Map / Set,D+7,Not Started,Not Started,Not Started,2026-12-18,,https://leetcode.com/problems/equal-row-and-column-pairs/
+2027-01-24,Sun,Revision,72,Edit Distance,DP · Multidimensional,D+7,Not Started,Not Started,Not Started,2026-12-05,,https://leetcode.com/problems/edit-distance/
+2027-01-24,Sun,Revision,151,Reverse Words in a String,Array / String,D+7,Not Started,Not Started,Not Started,2026-12-19,,https://leetcode.com/problems/reverse-words-in-a-string/
+2027-01-24,Sun,Revision,236,Lowest Common Ancestor of a Binary Tree,Binary Tree · DFS,D+14,Not Started,Not Started,Not Started,2026-11-25,,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
+2027-01-24,Sun,Revision,283,Move Zeroes,Two Pointers,D+3,Not Started,Not Started,Not Started,2026-12-06,,https://leetcode.com/problems/move-zeroes/
+2027-01-24,Sun,Revision,374,Guess Number Higher or Lower,Binary Search,Earlier Review,Not Started,Not Started,Not Started,2026-11-28,,https://leetcode.com/problems/guess-number-higher-or-lower/
+2027-01-24,Sun,Revision,714,Best Time to Buy and Sell Stock with Transaction Fee,DP · Multidimensional,D+7,Not Started,Not Started,Not Started,2026-12-04,,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/
+2027-01-24,Sun,Revision,746,Min Cost Climbing Stairs,DP · 1D,D+14,Not Started,Not Started,Not Started,2026-12-12,,https://leetcode.com/problems/min-cost-climbing-stairs/
+2027-01-24,Sun,Revision,1207,Unique Number of Occurrences,Hash Map / Set,D+3,Not Started,Not Started,Not Started,2026-12-06,,https://leetcode.com/problems/unique-number-of-occurrences/
+2027-01-25,Mon,Revision,151,Reverse Words in a String,Array / String,D+3,Not Started,Not Started,Not Started,2026-12-07,,https://leetcode.com/problems/reverse-words-in-a-string/
+2027-01-25,Mon,Revision,199,Binary Tree Right Side View,Binary Tree · BFS,D+14,Not Started,Not Started,Not Started,2026-11-26,,https://leetcode.com/problems/binary-tree-right-side-view/
+2027-01-25,Mon,Revision,1137,N-th Tribonacci Number,DP · 1D,D+14,Not Started,Not Started,Not Started,2026-12-12,,https://leetcode.com/problems/n-th-tribonacci-number/
+2027-01-25,Mon,Revision,1207,Unique Number of Occurrences,Hash Map / Set,D+7,Not Started,Not Started,Not Started,2026-12-19,,https://leetcode.com/problems/unique-number-of-occurrences/
+2027-01-26,Tue,Revision,238,Product of Array Except Self,Array / String,D+3,Not Started,Not Started,Not Started,2026-12-08,,https://leetcode.com/problems/product-of-array-except-self/
+2027-01-26,Tue,Revision,238,Product of Array Except Self,Array / String,D+7,Not Started,Not Started,Not Started,2026-12-20,,https://leetcode.com/problems/product-of-array-except-self/
+2027-01-26,Tue,Revision,790,Domino and Tromino Tiling,DP · 1D,D+7,Not Started,Not Started,Not Started,2026-12-03,,https://leetcode.com/problems/domino-and-tromino-tiling/
+2027-01-26,Tue,Revision,872,Leaf-Similar Trees,Binary Tree · DFS,D+14,Not Started,Not Started,Not Started,2026-11-28,,https://leetcode.com/problems/leaf-similar-trees/
+2027-01-26,Tue,Revision,1431,Kids With the Greatest Number of Candies,Array / String,D+3,Not Started,Not Started,Not Started,2026-12-23,,https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
+2027-01-27,Wed,Revision,238,Product of Array Except Self,Array / String,D+3,Not Started,Not Started,Not Started,2026-12-10,,https://leetcode.com/problems/product-of-array-except-self/
+2027-01-27,Wed,Revision,283,Move Zeroes,Two Pointers,D+14,Not Started,Not Started,Not Started,2026-12-13,,https://leetcode.com/problems/move-zeroes/
+2027-01-27,Wed,Revision,450,Delete Node in a BST,Binary Search Tree,D+14,Not Started,Not Started,Not Started,2026-11-29,,https://leetcode.com/problems/delete-node-in-a-bst/
+2027-01-27,Wed,Revision,605,Can Place Flowers,Array / String,D+3,Not Started,Not Started,Not Started,2026-12-24,,https://leetcode.com/problems/can-place-flowers/
+2027-01-27,Wed,Revision,1137,N-th Tribonacci Number,DP · 1D,D+7,Not Started,Not Started,Not Started,2026-12-04,,https://leetcode.com/problems/n-th-tribonacci-number/
+2027-01-27,Wed,Revision,1161,Maximum Level Sum of a Binary Tree,Binary Tree · BFS,D+14,Not Started,Not Started,Not Started,2026-11-27,,https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/
+2027-01-28,Thu,Revision,450,Delete Node in a BST,Binary Search Tree,D+14,Not Started,Not Started,Not Started,2026-11-28,,https://leetcode.com/problems/delete-node-in-a-bst/
+2027-01-28,Thu,Revision,700,Search in a Binary Search Tree,Binary Search Tree,D+14,Not Started,Not Started,Not Started,2026-11-28,,https://leetcode.com/problems/search-in-a-binary-search-tree/
+2027-01-28,Thu,Revision,746,Min Cost Climbing Stairs,DP · 1D,D+7,Not Started,Not Started,Not Started,2026-12-06,,https://leetcode.com/problems/min-cost-climbing-stairs/
+2027-01-28,Thu,Revision,1004,Max Consecutive Ones III,Sliding Window,D+14,Not Started,Not Started,Not Started,2026-12-13,,https://leetcode.com/problems/max-consecutive-ones-iii/
+2027-01-28,Thu,Revision,1456,Maximum Number of Vowels in a Substring of Given Length,Sliding Window,D+14,Not Started,Not Started,Not Started,2026-12-13,,https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/
+2027-01-29,Fri,Revision,334,Increasing Triplet Subsequence,Array / String,D+7,Not Started,Not Started,Not Started,2026-12-20,,https://leetcode.com/problems/increasing-triplet-subsequence/
+2027-01-29,Fri,Revision,746,Min Cost Climbing Stairs,DP · 1D,D+7,Not Started,Not Started,Not Started,2026-12-05,,https://leetcode.com/problems/min-cost-climbing-stairs/
+2027-01-29,Fri,Revision,1137,N-th Tribonacci Number,DP · 1D,D+7,Not Started,Not Started,Not Started,2026-12-06,,https://leetcode.com/problems/n-th-tribonacci-number/
+2027-01-29,Fri,Revision,1161,Maximum Level Sum of a Binary Tree,Binary Tree · BFS,D+14,Not Started,Not Started,Not Started,2026-11-29,,https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/
+2027-01-29,Fri,Revision,1431,Kids With the Greatest Number of Candies,Array / String,D+3,Not Started,Not Started,Not Started,2026-12-09,,https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
+2027-01-29,Fri,Revision,1768,Merge Strings Alternately,Array / String,D+7,Not Started,Not Started,Not Started,2026-12-20,,https://leetcode.com/problems/merge-strings-alternately/
+2027-01-30,Sat,Revision,11,Container With Most Water,Two Pointers,D+14,Not Started,Not Started,Not Started,2026-12-14,,https://leetcode.com/problems/container-with-most-water/
+2027-01-30,Sat,Revision,283,Move Zeroes,Two Pointers,D+7,Not Started,Not Started,Not Started,2026-12-06,,https://leetcode.com/problems/move-zeroes/
+2027-01-30,Sat,Revision,328,Odd Even Linked List,Linked List,D+14,Not Started,Not Started,Not Started,2026-11-29,,https://leetcode.com/problems/odd-even-linked-list/
+2027-01-30,Sat,Revision,345,Reverse Vowels of a String,Array / String,D+3,Not Started,Not Started,Not Started,2026-12-25,,https://leetcode.com/problems/reverse-vowels-of-a-string/
+2027-01-30,Sat,Revision,443,String Compression,Array / String,D+7,Not Started,Not Started,Not Started,2026-12-21,,https://leetcode.com/problems/string-compression/
+2027-01-30,Sat,Revision,1071,Greatest Common Divisor of Strings,Array / String,D+3,Not Started,Not Started,Not Started,2026-12-11,,https://leetcode.com/problems/greatest-common-divisor-of-strings/
+2027-01-30,Sat,Revision,1456,Maximum Number of Vowels in a Substring of Given Length,Sliding Window,D+7,Not Started,Not Started,Not Started,2026-12-05,,https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/
+2027-01-30,Sat,Revision,2095,Delete the Middle Node of a Linked List,Linked List,D+14,Not Started,Not Started,Not Started,2026-11-30,,https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/
+2027-01-31,Sun,Revision,283,Move Zeroes,Two Pointers,D+7,Not Started,Not Started,Not Started,2026-12-08,,https://leetcode.com/problems/move-zeroes/
+2027-01-31,Sun,Revision,328,Odd Even Linked List,Linked List,D+14,Not Started,Not Started,Not Started,2026-12-01,,https://leetcode.com/problems/odd-even-linked-list/
+2027-01-31,Sun,Revision,338,Counting Bits,Bit Manipulation,D+3,Not Started,Not Started,Not Started,2026-12-26,,https://leetcode.com/problems/counting-bits/
+2027-01-31,Sun,Revision,345,Reverse Vowels of a String,Array / String,D+3,Not Started,Not Started,Not Started,2026-12-10,,https://leetcode.com/problems/reverse-vowels-of-a-string/
+2027-01-31,Sun,Revision,724,Find Pivot Index,Prefix Sum,D+3,Not Started,Not Started,Not Started,2026-12-12,,https://leetcode.com/problems/find-pivot-index/
+2027-01-31,Sun,Revision,1071,Greatest Common Divisor of Strings,Array / String,D+7,Not Started,Not Started,Not Started,2026-12-06,,https://leetcode.com/problems/greatest-common-divisor-of-strings/
+2027-01-31,Sun,Revision,1207,Unique Number of Occurrences,Hash Map / Set,D+7,Not Started,Not Started,Not Started,2026-12-06,,https://leetcode.com/problems/unique-number-of-occurrences/
+2027-01-31,Sun,Revision,1318,Minimum Flips to Make a OR b Equal to c,Bit Manipulation,D+3,Not Started,Not Started,Not Started,2026-12-26,,https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/
+2027-02-01,Mon,Revision,136,Single Number,Bit Manipulation,D+3,Not Started,Not Started,Not Started,2026-12-27,,https://leetcode.com/problems/single-number/
+2027-02-01,Mon,Revision,151,Reverse Words in a String,Array / String,D+7,Not Started,Not Started,Not Started,2026-12-07,,https://leetcode.com/problems/reverse-words-in-a-string/
+2027-02-01,Mon,Revision,1431,Kids With the Greatest Number of Candies,Array / String,D+3,Not Started,Not Started,Not Started,2026-12-12,,https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
+2027-02-01,Mon,Revision,1679,Max Number of K-Sum Pairs,Two Pointers,D+14,Not Started,Not Started,Not Started,2026-12-15,,https://leetcode.com/problems/max-number-of-k-sum-pairs/
+2027-02-01,Mon,Revision,2130,Maximum Twin Sum of a Linked List,Linked List,D+14,Not Started,Not Started,Not Started,2026-11-29,,https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/
+2027-02-02,Tue,Revision,238,Product of Array Except Self,Array / String,D+7,Not Started,Not Started,Not Started,2026-12-10,,https://leetcode.com/problems/product-of-array-except-self/
+2027-02-02,Tue,Revision,392,Is Subsequence,Two Pointers,D+14,Not Started,Not Started,Not Started,2026-12-16,,https://leetcode.com/problems/is-subsequence/
+2027-02-02,Tue,Revision,724,Find Pivot Index,Prefix Sum,D+3,Not Started,Not Started,Not Started,2026-12-11,,https://leetcode.com/problems/find-pivot-index/
+2027-02-02,Tue,Revision,1143,Longest Common Subsequence,DP · Multidimensional,D+14,Not Started,Not Started,Not Started,2026-11-30,,https://leetcode.com/problems/longest-common-subsequence/
+2027-02-02,Tue,Revision,2130,Maximum Twin Sum of a Linked List,Linked List,D+14,Not Started,Not Started,Not Started,2026-12-02,,https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/
+2027-02-03,Wed,Revision,238,Product of Array Except Self,Array / String,D+7,Not Started,Not Started,Not Started,2026-12-08,,https://leetcode.com/problems/product-of-array-except-self/
+2027-02-03,Wed,Revision,714,Best Time to Buy and Sell Stock with Transaction Fee,DP · Multidimensional,D+14,Not Started,Not Started,Not Started,2026-12-01,,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/
+2027-02-03,Wed,Revision,1143,Longest Common Subsequence,DP · Multidimensional,D+14,Not Started,Not Started,Not Started,2026-12-03,,https://leetcode.com/problems/longest-common-subsequence/
+2027-02-03,Wed,Revision,1431,Kids With the Greatest Number of Candies,Array / String,D+7,Not Started,Not Started,Not Started,2026-12-23,,https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
+2027-02-03,Wed,Revision,1732,Find the Highest Altitude,Prefix Sum,D+3,Not Started,Not Started,Not Started,2026-12-27,,https://leetcode.com/problems/find-the-highest-altitude/
+2027-02-04,Thu,Revision,72,Edit Distance,DP · Multidimensional,D+14,Not Started,Not Started,Not Started,2026-12-02,,https://leetcode.com/problems/edit-distance/
+2027-02-04,Thu,Revision,605,Can Place Flowers,Array / String,D+7,Not Started,Not Started,Not Started,2026-12-24,,https://leetcode.com/problems/can-place-flowers/
+2027-02-04,Thu,Revision,933,Number of Recent Calls,Queue,D+3,Not Started,Not Started,Not Started,2026-12-28,,https://leetcode.com/problems/number-of-recent-calls/
+2027-02-04,Thu,Revision,1071,Greatest Common Divisor of Strings,Array / String,D+7,Not Started,Not Started,Not Started,2026-12-11,,https://leetcode.com/problems/greatest-common-divisor-of-strings/
+2027-02-04,Thu,Revision,1431,Kids With the Greatest Number of Candies,Array / String,D+7,Not Started,Not Started,Not Started,2026-12-09,,https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
+2027-02-05,Fri,Revision,345,Reverse Vowels of a String,Array / String,D+7,Not Started,Not Started,Not Started,2026-12-10,,https://leetcode.com/problems/reverse-vowels-of-a-string/
+2027-02-05,Fri,Revision,724,Find Pivot Index,Prefix Sum,D+7,Not Started,Not Started,Not Started,2026-12-12,,https://leetcode.com/problems/find-pivot-index/
+2027-02-05,Fri,Revision,790,Domino and Tromino Tiling,DP · 1D,D+14,Not Started,Not Started,Not Started,2026-12-03,,https://leetcode.com/problems/domino-and-tromino-tiling/
+2027-02-05,Fri,Revision,1657,Determine if Two Strings Are Close,Hash Map / Set,D+14,Not Started,Not Started,Not Started,2026-12-17,,https://leetcode.com/problems/determine-if-two-strings-are-close/
+2027-02-06,Sat,Revision,151,Reverse Words in a String,Array / String,D+14,Not Started,Not Started,Not Started,2026-12-19,,https://leetcode.com/problems/reverse-words-in-a-string/
+2027-02-06,Sat,Revision,338,Counting Bits,Bit Manipulation,D+7,Not Started,Not Started,Not Started,2026-12-26,,https://leetcode.com/problems/counting-bits/
+2027-02-06,Sat,Revision,724,Find Pivot Index,Prefix Sum,D+7,Not Started,Not Started,Not Started,2026-12-11,,https://leetcode.com/problems/find-pivot-index/
+2027-02-06,Sat,Revision,746,Min Cost Climbing Stairs,DP · 1D,D+14,Not Started,Not Started,Not Started,2026-12-05,,https://leetcode.com/problems/min-cost-climbing-stairs/
+2027-02-06,Sat,Revision,1137,N-th Tribonacci Number,DP · 1D,D+14,Not Started,Not Started,Not Started,2026-12-04,,https://leetcode.com/problems/n-th-tribonacci-number/
+2027-02-06,Sat,Revision,1431,Kids With the Greatest Number of Candies,Array / String,D+7,Not Started,Not Started,Not Started,2026-12-12,,https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
+2027-02-06,Sat,Revision,2352,Equal Row and Column Pairs,Hash Map / Set,D+14,Not Started,Not Started,Not Started,2026-12-18,,https://leetcode.com/problems/equal-row-and-column-pairs/
+2027-02-07,Sun,Revision,136,Single Number,Bit Manipulation,D+7,Not Started,Not Started,Not Started,2026-12-27,,https://leetcode.com/problems/single-number/
+2027-02-07,Sun,Revision,151,Reverse Words in a String,Array / String,D+14,Not Started,Not Started,Not Started,2026-12-09,,https://leetcode.com/problems/reverse-words-in-a-string/
+2027-02-07,Sun,Revision,283,Move Zeroes,Two Pointers,D+14,Not Started,Not Started,Not Started,2026-12-06,,https://leetcode.com/problems/move-zeroes/
+2027-02-07,Sun,Revision,1071,Greatest Common Divisor of Strings,Array / String,D+14,Not Started,Not Started,Not Started,2026-12-06,,https://leetcode.com/problems/greatest-common-divisor-of-strings/
+2027-02-07,Sun,Revision,1207,Unique Number of Occurrences,Hash Map / Set,D+14,Not Started,Not Started,Not Started,2026-12-19,,https://leetcode.com/problems/unique-number-of-occurrences/
+2027-02-07,Sun,Revision,1318,Minimum Flips to Make a OR b Equal to c,Bit Manipulation,D+7,Not Started,Not Started,Not Started,2026-12-26,,https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/
+2027-02-07,Sun,Revision,1456,Maximum Number of Vowels in a Substring of Given Length,Sliding Window,D+14,Not Started,Not Started,Not Started,2026-12-05,,https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/
+2027-02-08,Mon,Revision,151,Reverse Words in a String,Array / String,D+14,Not Started,Not Started,Not Started,2026-12-07,,https://leetcode.com/problems/reverse-words-in-a-string/
+2027-02-08,Mon,Revision,238,Product of Array Except Self,Array / String,D+14,Not Started,Not Started,Not Started,2026-12-10,,https://leetcode.com/problems/product-of-array-except-self/
+2027-02-08,Mon,Revision,724,Find Pivot Index,Prefix Sum,D+7,Not Started,Not Started,Not Started,2026-12-27,,https://leetcode.com/problems/find-pivot-index/
+2027-02-08,Mon,Revision,1071,Greatest Common Divisor of Strings,Array / String,D+14,Not Started,Not Started,Not Started,2026-12-11,,https://leetcode.com/problems/greatest-common-divisor-of-strings/
+2027-02-08,Mon,Revision,1207,Unique Number of Occurrences,Hash Map / Set,D+14,Not Started,Not Started,Not Started,2026-12-06,,https://leetcode.com/problems/unique-number-of-occurrences/
+2027-02-09,Tue,Revision,238,Product of Array Except Self,Array / String,D+14,Not Started,Not Started,Not Started,2026-12-08,,https://leetcode.com/problems/product-of-array-except-self/
+2027-02-09,Tue,Revision,334,Increasing Triplet Subsequence,Array / String,D+14,Not Started,Not Started,Not Started,2026-12-20,,https://leetcode.com/problems/increasing-triplet-subsequence/
+2027-02-09,Tue,Revision,724,Find Pivot Index,Prefix Sum,D+14,Not Started,Not Started,Not Started,2026-12-12,,https://leetcode.com/problems/find-pivot-index/
+2027-02-09,Tue,Revision,1431,Kids With the Greatest Number of Candies,Array / String,D+14,Not Started,Not Started,Not Started,2026-12-09,,https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
+2027-02-09,Tue,Revision,1768,Merge Strings Alternately,Array / String,D+14,Not Started,Not Started,Not Started,2026-12-20,,https://leetcode.com/problems/merge-strings-alternately/
+2027-02-10,Wed,Revision,11,Container With Most Water,Two Pointers,Earlier Review,Not Started,Not Started,Not Started,2026-12-14,,https://leetcode.com/problems/container-with-most-water/
+2027-02-10,Wed,Revision,345,Reverse Vowels of a String,Array / String,D+14,Not Started,Not Started,Not Started,2026-12-10,,https://leetcode.com/problems/reverse-vowels-of-a-string/
+2027-02-10,Wed,Revision,724,Find Pivot Index,Prefix Sum,D+14,Not Started,Not Started,Not Started,2026-12-11,,https://leetcode.com/problems/find-pivot-index/
+2027-02-10,Wed,Revision,1732,Find the Highest Altitude,Prefix Sum,D+7,Not Started,Not Started,Not Started,2026-12-27,,https://leetcode.com/problems/find-the-highest-altitude/
+2027-02-11,Thu,Revision,443,String Compression,Array / String,D+14,Not Started,Not Started,Not Started,2026-12-21,,https://leetcode.com/problems/string-compression/
+2027-02-11,Thu,Revision,933,Number of Recent Calls,Queue,D+7,Not Started,Not Started,Not Started,2026-12-28,,https://leetcode.com/problems/number-of-recent-calls/
+2027-02-12,Fri,Revision,1071,Greatest Common Divisor of Strings,Array / String,D+14,Not Started,Not Started,Not Started,2026-12-22,,https://leetcode.com/problems/greatest-common-divisor-of-strings/
+2027-02-12,Fri,Revision,1679,Max Number of K-Sum Pairs,Two Pointers,Earlier Review,Not Started,Not Started,Not Started,2026-12-15,,https://leetcode.com/problems/max-number-of-k-sum-pairs/
+2027-02-13,Sat,Revision,605,Can Place Flowers,Array / String,D+14,Not Started,Not Started,Not Started,2026-12-24,,https://leetcode.com/problems/can-place-flowers/
+2027-02-13,Sat,Revision,1431,Kids With the Greatest Number of Candies,Array / String,D+14,Not Started,Not Started,Not Started,2026-12-23,,https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
+2027-02-13,Sat,Revision,1657,Determine if Two Strings Are Close,Hash Map / Set,Earlier Review,Not Started,Not Started,Not Started,2026-12-17,,https://leetcode.com/problems/determine-if-two-strings-are-close/
+2027-02-14,Sun,Revision,338,Counting Bits,Bit Manipulation,D+14,Not Started,Not Started,Not Started,2026-12-26,,https://leetcode.com/problems/counting-bits/
+2027-02-14,Sun,Revision,345,Reverse Vowels of a String,Array / String,D+14,Not Started,Not Started,Not Started,2026-12-25,,https://leetcode.com/problems/reverse-vowels-of-a-string/
+2027-02-14,Sun,Revision,2352,Equal Row and Column Pairs,Hash Map / Set,Earlier Review,Not Started,Not Started,Not Started,2026-12-18,,https://leetcode.com/problems/equal-row-and-column-pairs/
+2027-02-15,Mon,Revision,136,Single Number,Bit Manipulation,D+14,Not Started,Not Started,Not Started,2026-12-27,,https://leetcode.com/problems/single-number/
+2027-02-15,Mon,Revision,1318,Minimum Flips to Make a OR b Equal to c,Bit Manipulation,D+14,Not Started,Not Started,Not Started,2026-12-26,,https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/
+2027-02-16,Tue,Revision,334,Increasing Triplet Subsequence,Array / String,Earlier Review,Not Started,Not Started,Not Started,2026-12-20,,https://leetcode.com/problems/increasing-triplet-subsequence/
+2027-02-16,Tue,Revision,724,Find Pivot Index,Prefix Sum,D+14,Not Started,Not Started,Not Started,2026-12-27,,https://leetcode.com/problems/find-pivot-index/
+2027-02-17,Wed,Revision,11,Container With Most Water,Two Pointers,Earlier Review,Not Started,Not Started,Not Started,2026-12-14,,https://leetcode.com/problems/container-with-most-water/
+2027-02-17,Wed,Revision,1732,Find the Highest Altitude,Prefix Sum,D+14,Not Started,Not Started,Not Started,2026-12-27,,https://leetcode.com/problems/find-the-highest-altitude/
+2027-02-18,Thu,Revision,933,Number of Recent Calls,Queue,D+14,Not Started,Not Started,Not Started,2026-12-28,,https://leetcode.com/problems/number-of-recent-calls/
+2027-02-18,Thu,Revision,1679,Max Number of K-Sum Pairs,Two Pointers,Earlier Review,Not Started,Not Started,Not Started,2026-12-15,,https://leetcode.com/problems/max-number-of-k-sum-pairs/
+2027-02-19,Fri,Revision,1657,Determine if Two Strings Are Close,Hash Map / Set,Earlier Review,Not Started,Not Started,Not Started,2026-12-17,,https://leetcode.com/problems/determine-if-two-strings-are-close/
+2027-02-19,Fri,Revision,2352,Equal Row and Column Pairs,Hash Map / Set,Earlier Review,Not Started,Not Started,Not Started,2026-12-18,,https://leetcode.com/problems/equal-row-and-column-pairs/
+2027-02-20,Sat,Revision,11,Container With Most Water,Two Pointers,Earlier Review,Not Started,Not Started,Not Started,2026-12-14,,https://leetcode.com/problems/container-with-most-water/
+2027-02-20,Sat,Revision,334,Increasing Triplet Subsequence,Array / String,Earlier Review,Not Started,Not Started,Not Started,2026-12-20,,https://leetcode.com/problems/increasing-triplet-subsequence/
+2027-02-20,Sat,Revision,1732,Find the Highest Altitude,Prefix Sum,Earlier Review,Not Started,Not Started,Not Started,2026-12-27,,https://leetcode.com/problems/find-the-highest-altitude/
+2027-02-21,Sun,Revision,643,Maximum Average Subarray I,Sliding Window,Earlier Review,Not Started,Not Started,Not Started,2026-10-20,,https://leetcode.com/problems/maximum-average-subarray-i/
+2027-02-21,Sun,Revision,933,Number of Recent Calls,Queue,Earlier Review,Not Started,Not Started,Not Started,2026-12-28,,https://leetcode.com/problems/number-of-recent-calls/
+2027-02-22,Mon,Revision,104,Maximum Depth of Binary Tree,Binary Tree · DFS,Earlier Review,Not Started,Not Started,Not Started,2026-10-24,,https://leetcode.com/problems/maximum-depth-of-binary-tree/
+2027-02-22,Mon,Revision,2215,Find the Difference of Two Arrays,Hash Map / Set,Earlier Review,Not Started,Not Started,Not Started,2026-10-21,,https://leetcode.com/problems/find-the-difference-of-two-arrays
+2027-02-23,Tue,Revision,334,Increasing Triplet Subsequence,Array / String,Earlier Review,Not Started,Not Started,Not Started,2026-12-20,,https://leetcode.com/problems/increasing-triplet-subsequence/
+2027-02-23,Tue,Revision,1732,Find the Highest Altitude,Prefix Sum,Earlier Review,Not Started,Not Started,Not Started,2026-12-27,,https://leetcode.com/problems/find-the-highest-altitude/
