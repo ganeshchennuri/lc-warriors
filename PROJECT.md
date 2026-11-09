@@ -102,8 +102,8 @@ Use the *unpooled* URLs for dump/restore. Afterwards run `npm run db:migrate` ag
 
 | Task | How |
 |---|---|
-| Deploy | `npx vercel --prod --yes`, then remove the previous deployment: `npx vercel ls lc-warriors` → `npx vercel rm <old-url> --yes` (we keep exactly one) |
-| Schema change | edit `src/db/schema.ts` → `npm run db:generate` → commit `drizzle/*` → **migrate production before deploying** code that uses the new columns (`set -a && source .env.production.local && set +a && npm run db:migrate`) |
+| Deploy | push to `main` (the GitHub integration deploys production; other branches are skipped by the Ignored Build Step `[ "$VERCEL_ENV" != "production" ]`). Then remove the previous deployment: `npx vercel ls lc-warriors` → `npx vercel rm <old-url> --yes` (we keep exactly one). Manual fallback: `npx vercel --prod --yes` |
+| Schema change | edit `src/db/schema.ts` → `npm run db:generate` → **migrate production before pushing to `main`** code that uses the new columns (`set -a && source .env.production.local && set +a && npm run db:migrate`) |
 | Change the schedule | **Download sheet** from the site → edit → **Upload sheet** → check the preview → Apply |
 | One-off data fix (e.g. a wrong link) | same as above: download, fix the cell, upload. The preview should list only that change |
 | Checks | `npm test` · `npx tsc --noEmit` · `npm run lint` · `npm run build` |
@@ -155,3 +155,6 @@ Implemented in `src/db/sync.ts`; used by both **Upload sheet** and `npm run db:s
   - The pre-cleanup snapshot is the 839-row export taken before the cleanup upload.
   - Code: the Revisit tab now shows each problem and stage once.
   - Repo housekeeping: the root-level sheet files are git-ignored (`/*.csv`, `/*.xlsx`) and the extra CSVs were removed. `data/tracker.csv` was refreshed to the live state. `CLAUDE.md` was expanded into a contributor guide.
+  - The repo was pushed to GitHub and connected to Vercel. Pushes to `main` deploy production.
+  - Preview deployments were switched off with the Ignored Build Step `[ "$VERCEL_ENV" != "production" ]`, because previews would share the production database unprotected. Only one deployment is kept.
+  - Contributors are added as GitHub collaborators and ship by pushing to `main` (the repo is public, so Vercel Hobby deploys their commits). Only the repo owner holds the Vercel login and `.env.production.local`, so production migrations and removing old deployments go through them.

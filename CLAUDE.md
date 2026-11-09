@@ -50,17 +50,20 @@ Before calling any change done, run all four checks: `npm test` (Vitest with in-
 
 1. Edit `src/db/schema.ts`.
 2. `npm run db:generate`, and commit the new `drizzle/*.sql` and `drizzle/meta`.
-3. **Migrate production before deploying** code that reads the new columns: `set -a && source .env.production.local && set +a && npm run db:migrate`. If you deploy first, pages that read those columns fail until the migration runs.
+3. **Migrate production before pushing to `main`** (pushing deploys) code that reads the new columns: `set -a && source .env.production.local && set +a && npm run db:migrate`. If you deploy first, pages that read those columns fail until the migration runs.
 
 ## Deploying
 
+The Vercel project is connected to GitHub (`ganeshchennuri/lc-warriors`). **A push to `main` deploys production automatically.** Other branches and pull requests are skipped: the project's Ignored Build Step is `[ "$VERCEL_ENV" != "production" ]`. That matters because Preview would share the production database and has no protection. Don't turn previews on without giving them their own database.
+
+We keep exactly one deployment. After a push, remove the superseded one:
+
 ```bash
-npx vercel --prod --yes                    # prefix NODE_OPTIONS=--use-system-ca on networks that intercept TLS
-npx vercel ls lc-warriors                  # then remove the previous deployment:
+npx vercel ls lc-warriors                  # prefix NODE_OPTIONS=--use-system-ca on networks that intercept TLS
 npx vercel rm <previous-deployment-url> --yes
 ```
 
-Keep exactly one deployment. `.env.production.local` comes from `npx vercel env pull .env.production.local` and is git-ignored; the app reads only `DATABASE_URL`.
+To deploy by hand (rarely needed): `npx vercel --prod --yes`. `.env.production.local` comes from `npx vercel env pull .env.production.local` and is git-ignored; the app reads only `DATABASE_URL`. Migrations are not run by the build. **Migrate production before pushing** a schema change to `main`.
 
 ## Production data: be careful
 
